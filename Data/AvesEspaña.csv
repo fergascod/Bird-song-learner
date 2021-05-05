@@ -1,0 +1,655 @@
+ANATIDAE;;;;;;;
+Branta bernicla;bernicla, hrota;Brant Goose;Barnacla carinegra;A;;A;R2  (solo ssp. hrota). 
+Branta ruficollis;;Red-breasted Goose;Barnacla cuellirroja;A (i);;;R1
+Branta leucopsis;;Barnacle Goose;Barnacla cariblanca;A (i);;D;
+Anser caerulescens;atlanticus;Snow Goose;Ánsar nival;A (i);;;R2
+Anser anser;anser;Greylag Goose;Ánsar común;A (i);A;A(i);
+Anser fabalis;fabalis, rossicus;Bean Goose;Ánsar campestre;A;;;R1 (ssp. fabalis), R2 (ssp. rossicus y sin asignar) / IOC v9.1 incluye el taxón rossicus dentro de la sp. A. serrirostris: A. s. rossicus.
+Anser brachyrhynchus;;Pink-footed Goose;Ánsar piquicorto;A;;A;
+Anser albifrons;flavirostris, albifrons;Greater White-fronted Goose;Ánsar careto;A;;A;R1 (solo ssp. flavirostris).
+Cygnus olor;;Mute Swan;Cisne vulgar;A (i);;;
+Cygnus columbianus;bewickii;Tundra Swan;Cisne chico;A;;;R1
+Cygnus cygnus;;Whooper Swan;Cisne cantor;A;;;R2
+Tadorna tadorna;;Common Shelduck;Tarro blanco;A;A;A;
+Tadorna ferruginea;;Ruddy Shelduck;Tarro canelo;A (i);A;A;
+Spatula querquedula;;Garganey;Cerceta carretona;A;;A;
+Spatula discors;;Blue-winged Teal;Cerceta aliazul;A (i);;A;R2
+Spatula clypeata;;Northern Shoveler;Cuchara común;A;;A;
+Mareca strepera;strepera;Gadwall;Ánade friso;A;A;A;
+Mareca penelope;;Eurasian Wigeon;Silbón europeo;A;;A;
+Mareca americana;;American Wigeon;Silbón americano;A;;A;R2
+Anas platyrhynchos;platyrhynchos;Mallard;Ánade azulón;A;A;A (i);
+Anas rubripes;;American Black Duck;Ánade sombrío;A;;A;R2
+Anas acuta;;Northern Pintail;Ánade rabudo norteño;A;;A;
+Anas crecca;;Eurasian Teal;Cerceta común;A;;A;
+Anas carolinensis;;Green-winged Teal;Cerceta americana;A;;A;R2 / Tratada como ssp. de A. crecca (A. c. carolinensis) por HBW/BirdLife v3.
+Marmaronetta angustirostris;;Marbled Duck;Cerceta pardilla;A (i);;A;
+Netta rufina;;Red-crested Pochard;Pato colorado;A;;;
+Aythya ferina;;Common Pochard;Porrón europeo;A;;A;
+Aythya nyroca;;Ferruginous Duck;Porrón pardo;A;;A;
+Aythya collaris;;Ring-necked Duck;Porrón acollarado;A;;A;
+Aythya fuligula;;Tufted Duck;Porrón moñudo;A;;A;
+Aythya marila;marila;Greater Scaup;Porrón bastardo;A;;A;
+Aythya affinis;;Lesser Scaup;Porrón bola;A;;A;R2
+Somateria spectabilis;;King Eider;Éider real;A;;;R1
+Somateria mollissima;mollissima;Common Eider;Éider común;A;;;
+Melanitta perspicillata;;Surf Scoter;Negrón careto;A;;;R2
+Melanitta fusca;;Velvet Scoter;Negrón especulado;A;;;
+Melanitta deglandi;stejnegeri;White-winged Scoter;Negrón aliblanco;A;;;R1 / El taxón stejnegeri se encuentra elevado a especie (M. stejnegeri) en HBW/BirdLife v3.
+Melanitta nigra;;Common Scoter;Negrón común;A;A;A;
+Melanitta americana;;Black Scoter;Negrón americano;A;;;R1
+Clangula hyemalis;;Long-tailed Duck;Pato havelda;A;;A;
+Bucephala albeola;;Bufflehead;Porrón albeola;A (i);;;R1
+Bucephala clangula;clangula;Common Goldeneye;Porrón osculado;A ;;;R2
+Bucephala islandica;;Barrow's Goldeneye;Porrón islándico;A;;;R1
+Mergellus albellus;;Smew;Serreta chica;A (i);;;R2
+Mergus merganser;merganser;Common Merganser;Serreta grande;A;;;R2
+Mergus serrator;;Red-breasted Merganser;Serreta mediana;A;A;A;
+Oxyura leucocephala;;White-headed Duck;Malvasía cabeciblanca;A;;;
+PHASIANIDAE;;;;;;;
+Tetrastes bonasia;styriaca;Hazel Grouse;Grévol común;B (i);;;/ Asignada al género Bonasa (B. bonasia) por HBW/BirdLife v3.
+Tetrao urogallus;cantabricus, aquitanicus;Western Capercaillie;Urogallo común;A;;;
+Lagopus muta;pyrenaica;Rock Ptarmigan;Lagópodo alpino;A;;;
+Alectoris barbara;koenigi, barbara;Barbary Partridge;Perdiz moruna;;A (i);C;
+Alectoris rufa;hispanica, intercedens;Red-legged Partridge;Perdiz roja;A (i);;C;
+Perdix perdix;hispaniensis;Grey Partridge;Perdiz pardilla;A (i);;;
+Coturnix coturnix;coturnix, confisa;Common Quail;Codorniz común;A;A;A;/ la ssp. confisa se encuentra pendiente de revisión para confirmar su validez.
+GAVIIDAE;;;;;;;
+Gavia stellata;;Red-throated Loon;Colimbo chico;A;;;
+Gavia arctica;arctica;Black-throated Loon;Colimbo ártico;A;;A;
+Gavia pacifica;;Pacific Loon;Colimbo del Pacífico;A;;;R1
+Gavia immer;;Common Loon;Colimbo grande;A;A;A;
+OCEANITIDAE;;;;;;;
+Oceanites oceanicus;ASD;Wilson's Storm Petrel;Paíño de Wilson;A;A;A;
+Pelagodroma marina;hypoleuca;White-faced Storm Petrel;Paíño pechialbo;A;;A;R1 (excepto Canarias).
+Fregetta tropica;tropica;Black-bellied Storm Petrel;Paíño ventrinegro;;;A;R1 
+DIOMEDEIDAE;;;;;;;
+Thalassarche melanophris;;Black-browed Albatross;Albatros ojeroso;A;;;R1
+HYDROBATIDAE;;;;;;;
+Hydrobates pelagicus;pelagicus, melitensis;European Storm Petrel;Paíño europeo;A;A;A;
+Oceanodroma castro;;Band-rumped Storm Petrel;Paíño de Madeira;A;;A;R2 (excepto Canarias) / Asignada al género Hydrobates (H. castro) por  HBW/BirdLife v3.
+Oceanodroma monorhis;;Swinhoe's Storm Petrel;Paíño de Swinhoe;A;;A;R1 / Asignada al género Hydrobates (H. monorhis) por HBW/BirdLife v3.
+Oceanodroma leucorhoa;leucorhoa;Leach's Storm Petrel;Paíño boreal;A;A;A;/Asignada al género Hydrobates (H. leucorhous) por HBW/BirdLife v3.
+PROCELLARIIDAE;;;;;;;
+Fulmarus glacialis;auduboni;Northern Fulmar;Fulmar boreal;A;;A;
+Daption capense;ASD;Cape Petrel;Petrel damero;A;;;R1
+Pterodroma madeira;;Zino's Petrel;Petrel freira;A;;;R1
+Pterodroma feae / Pterodroma deserta;;Fea's Petrel/Desertas Petrel;Petrel gongón/Petrel de las Desertas;A;;A;R1
+Pterodroma hasitata;;Black-capped Petrel;Petrel antillano;A;;;R1
+Calonectris diomedea;;Scopoli's Shearwater;Pardela cenicienta mediterránea;A;A;A;
+Calonectris borealis;;Cory's Shearwater;Pardela cenicienta canaria;A;A;A;
+Calonectris edwardsii;;Cape Verde Shearwater;Pardela cenicienta caboverdiana;;;A;R1
+Ardenna grisea;;Sooty Shearwater;Pardela sombría;A;A;A;
+Ardenna gravis;;Great Shearwater;Pardela capirotada;A;A;A;
+Puffinus puffinus;;Manx Shearwater;Pardela pichoneta;A;A;A;
+Puffinus yelkouan;;Yelkouan Shearwater;Pardela mediterránea;A;A;;
+Puffinus mauretanicus;;Balearic Shearwater;Pardela balear;A;A;A;
+Puffinus baroli;;Barolo Shearwater;Pardela chica;A;;A;R1 (excepto Canarias) / Tratada como ssp. de P. lherminieri (P. l. baroli) por HBW/BirdLife v3.
+Puffinus boydi;;Boyd's Shearwater;Pardela chica de Cabo Verde;;;A;R1 / Tratada como ssp. de P. lherminieri (P. l. boydi) por HBW/BirdLife v3
+Bulweria bulwerii;;Bulwer's Petrel;Petrel de Bulwer;A;;A;R1 (excepto Canarias).
+PODICIPEDIDAE;;;;;;;
+Tachybaptus ruficollis;ruficollis;Little Grebe;Zampullín común;A;A;A;
+Podilymbus podiceps;¿podiceps?;Pied-billed Grebe;Zampullín picogrueso;A;;A;R1
+Podiceps grisegena;grisegena;Red-necked Grebe;Somormujo cuellirrojo;A;;;R2
+Podiceps cristatus;cristatus;Great Crested Grebe;Somormujo lavanco;A;A;A;
+Podiceps auritus;auritus;Horned Grebe;Zampullín cuellirrojo;A;;;
+Podiceps nigricollis;nigricollis;Black-necked Grebe;Zampullín cuellinegro;A;;A;
+PHOENICOPTERIDAE;;;;;;;
+Phoenicopterus roseus;;Greater Flamingo;Flamenco común;A;A;A;
+Phoeniconaias minor;;Lesser Flamingo;Flamenco enano;A (i);;A (i);
+PHAETHONTIDAE;;;;;;;
+Phaethon aethereus;mesonauta;Red-billed Tropicbird;Rabijunco etéreo;A;;A;R1 (excepto Canarias).
+CICONIIDAE;;;;;;;
+Ciconia nigra;;Black Stork;Cigüeña negra;A;A;A;
+Ciconia ciconia;ciconia;White Stork;Cigüeña blanca;A;A;A;
+THRESKIORNITHIDAE;;;;;;;
+Geronticus eremita;;Northern Bald Ibis;Ibis eremita;A (i);C*;;R1 (excepto población introducida).
+Plegadis falcinellus;;Glossy Ibis;Morito común;A;A;A;
+Platalea leucorodia;leucorodia;Eurasian Spoonbill;Espátula común;A;A;A;
+ARDEIDAE;;;;;;;
+Botaurus stellaris;stellaris;Eurasian Bittern;Avetoro común;A;A;A;
+Botaurus lentiginosus;;American Bittern;Avetoro lentiginoso;A;;A;R1
+Ixobrychus minutus;minutus;Little Bittern;Avetorillo común;A;A;A;
+Ixobrychus sturmii;;Dwarf Bittern;Avetorillo plomizo;;;A;R1
+Nycticorax nycticorax;nycticorax;Black-crowned Night Heron;Martinete común;A;A;A;
+Butorides virescens;ASD;Green Heron;Garcilla verde;;;A;R1 / Incluida en B. striata por HBW/BirdLife v3.
+Ardeola ralloides;;Squacco Heron;Garcilla cangrejera;A;A;A;
+Bubulcus ibis;ibis;Cattle Egret;Garcilla bueyera;A;A;A;/ Considerada como politípica siguiendo a Martínez-Vilalta et al. (2018).
+Ardea cinerea;cinerea;Grey Heron;Garza real;A;A;A;
+Ardea herodias;ASD;Great Blue Heron;Garza azulada;;;A;R1
+Ardea purpurea;purpurea;Purple Heron;Garza imperial;A;A;A;
+Ardea alba;alba;Great Egret;Garceta grande;A;A;A;
+Egretta tricolor;¿ruficollis?;Tricolored Heron;Garceta tricolor;;;A;R1
+Egretta garzetta;garzetta;Little Egret;Garceta común;A;A;A;
+Egretta gularis;gularis;Western Reef Heron;Garceta dimorfa;A;;A;R2
+PELECANIDAE;;;;;;;
+Pelecanus onocrotalus;;Great White Pelican;Pelícano común;A (i);;;R2
+FREGATIDAE;;;;;;;
+Fregata magnificens;;Magnificent Frigatebird;Rabihorcado magnífico;A;;;R1
+SULIDAE;;;;;;;
+Morus bassanus;;Northern Gannet;Alcatraz atlántico;A;A;A;
+Sula dactylatra;¿dactylatra?;Masked Booby;Piquero enmascarado;A;;;R1
+Sula sula;¿sula?;Red-footed Booby;Piquero patirrojo;A;;A;R1
+Sula leucogaster;¿leucogaster?;Brown Booby;Piquero pardo;A;;A;R1
+PHALACROCORACIDAE;;;;;;;
+Microcarbo pygmaeus;;Pygmy Cormorant;Cormorán pigmeo;A;;;R1 
+Phalacrocorax auritus;¿auritus?;Double-crested Cormorant;Cormorán orejudo;;;A;R1
+Phalacrocorax aristotelis;aristotelis, desmarestii;European Shag;Cormorán moñudo;A;A;;
+Phalacrocorax carbo;carbo, sinensis;Great Cormorant;Cormorán grande;A;A;A;
+PANDIONIDAE;;;;;;;
+Pandion haliaetus;haliaetus;Osprey;Águila pescadora;A (i);A;A;
+ACCIPITRIDAE;;;;;;;
+Elanus caeruleus;caeruleus;Black-winged Kite;Elanio común;A;A;;
+Gypaetus barbatus;barbatus;Bearded Vulture;Quebrantahuesos;A (i);;;
+Neophron percnopterus;majorensis, percnopterus;Egyptian Vulture;Alimoche común;A;A;A;
+Pernis apivorus;;European Honey Buzzard;Abejero europeo;A;A;A;
+Elanoides forficatus;¿forficatus?;Swallow-tailed Kite;Elanio tijereta;;;A;R1
+Gyps africanus;;White-backed Vulture;Buitre dorsiblanco africano;A;;;R1
+Gyps rueppelli;rueppelli;Rüppell's Vulture;Buitre moteado;A;A;;
+Gyps fulvus;fulvus;Griffon Vulture;Buitre leonado;A;A;;
+Aegypius monachus;;Cinereous Vulture;Buitre negro;A (i);A;;
+Circaetus gallicus;gallicus;Short-toed Snake Eagle;Culebrera europea;A;A;A;
+Terathopius ecaudatus;;Bateleur;Águila volatinera;A;;;R1
+Clanga pomarina;;Lesser Spotted Eagle;Águila pomerana;A;;;R2
+Clanga clanga;;Greater Spotted Eagle;Águila moteada;A;;;R2
+Hieraaetus pennatus;;Booted Eagle;Águila calzada;A;A;A;
+Aquila nipalensis;¿orientalis?;Steppe Eagle;Águila esteparia;A;;;R1
+Aquila adalberti;;Spanish Imperial Eagle;Águila imperial ibérica;A;A;;
+Aquila heliaca;;Eastern Imperial Eagle;Águila imperial oriental;A;;;R1
+Aquila chrysaetos;chrysaetos, homeyeri;Golden Eagle;Águila real;A;A;;
+Aquila fasciata;fasciata;Bonelli's Eagle;Águila perdicera;A (i);A;A;
+Accipiter nisus;nisus, punicus, granti;Eurasian Sparrowhawk;Gavilán común;A;A;A;
+Accipiter gentilis;gentilis;Northern Goshawk;Azor común;A;A;A;
+Circus aeruginosus;aeruginosus, harterti;Western Marsh Harrier;Aguilucho lagunero occidental;A;A;A;
+Circus cyaneus;;Hen Harrier;Aguilucho pálido;A;A;A;
+Circus macrourus;;Pallid Harrier;Aguilucho papialbo;A;A;A;
+Circus pygargus;;Montagu's Harrier;Aguilucho cenizo;A;A;A;
+Milvus milvus;milvus;Red Kite;Milano real;A;A;A;
+Milvus migrans;migrans;Black Kite;Milano negro;A;A;A;
+Haliaeetus albicilla;;White-tailed Eagle;Pigargo europeo;A;;;R1 / Tratada como monotípica siguiendo a Orta et al. (2018).
+Buteo lagopus;lagopus;Rough-legged Buzzard;Busardo calzado;A;;;R2
+Buteo rufinus;rufinus, cirtensis;Long-legged Buzzard;Busardo moro;A;A;A;R1 (ssp. rufinus), R2 (ssp. cirtensis y ssp. sin especificar, excepto territorios del norte de África).
+Buteo buteo;insularum, buteo, vulpinus;Common Buzzard;Busardo ratonero;A;A;A;R1 (solo ssp. vulpinus).
+OTIDIDAE;;;;;;;
+Otis tarda;tarda;Great Bustard;Avutarda euroasiática;A;;;
+Chlamydotis undulata;fuertaventurae;Houbara Bustard;Avutarda hubara africana;;;A;
+Tetrax tetrax;;Little Bustard;Sisón común;A;;;
+RALLIDAE;;;;;;;
+Rallus aquaticus;aquaticus;Water Rail;Rascón europeo;A;A;A;
+Crex egregia;;African Crake;Guión africano;A;;A;R1
+Crex crex;;Corn Crake;Guión de codornices;A;A;A;R2
+Porzana parva;;Little Crake;Polluela bastarda;A;;A;/ HBW/BirdLife v3 la asigna al género Zapornia (Z. parva).
+Porzana pusilla;intermedia;Baillon's Crake;Polluela chica;A;A;A;/  HBW/BirdLife v3 la asigna al género Zapornia (Z. pusilla).
+Porzana porzana;;Spotted Crake;Polluela pintoja;A;A;A;
+Porzana carolina;;Sora;Polluela sora;A;;;R1
+Porzana marginalis;;Striped Crake;Polluela culirroja;A;;;R1 / Asignada al género Aenigmatolimnas o al género Amaurornis,por IOC v9.1 y HBW/BirdLife v3 respectivamente.
+Porphyrio porphyrio;porphyrio, madagascarensis;Purple Swamphen;Calamón común;A ;A;A;R1 (solo ssp. madagascarensis) / Taxón madagascarensis  considerado  especie (P. madagascariensis) por IOC v9.1 –nótese el cambio ortográfico–.
+Porphyrio alleni;;Allen's Gallinule;Calamoncillo africano;A;A;A;R2
+Porphyrio martinicus;;Purple Gallinule;Calamoncillo americano;;;A;R1 / Escrito martinicus, siguiendo a David & Gosselin (2011). Viene como P. martinica en IOC v9.1.
+Gallinula chloropus;chloropus;Common Moorhen;Gallineta común;A;A;A;
+Gallinula angulata;;Lesser Moorhen;Gallineta chica;A;;;R1 / IOC v9.1 la asigna al género Paragallinula (P. angulata).
+Fulica cristata;;Red-knobbed Coot;Focha moruna;A (i);;;
+Fulica atra;atra;Eurasian Coot;Focha común;A;A;A;
+Fulica americana;americana;American Coot;Focha americana;A;;;R1
+GRUIDAE;;;;;;;
+Antigone canadensis;ASD;Sandhill Crane;Grulla canadiense;A;;;R1
+Grus virgo;;Demoiselle Crane;Grulla damisela;B (i);;;R1 (citas recientes consideradas de procedencia desconocida). /  Incluida en género Anthropoides (A. virgo) por HBW/BirdLife v3.
+Grus grus;;Common Crane;Grulla común;A;A;A;
+TURNICIDAE;;;;;;;
+Turnix sylvaticus;sylvaticus;Common Buttonquail;Torillo andaluz;A;;;/ Especie desaparecida de España.
+BURHINIDAE;;;;;;;
+Burhinus oedicnemus;oedicnemus, distinctus, insularum, saharae;Eurasian Stone-curlew;Alcaraván común;A;A;A;
+HAEMATOPODIDAE;;;;;;;
+Haematopus meadewaldoi †;;Canary Islands Oystercatcher;Ostrero negro canario;;;B;/ Extinguida.
+Haematopus ostralegus;ostralegus;Eurasian Oystercatcher;Ostrero euroasiático;A;A;A;
+RECURVIROSTRIDAE;;;;;;;
+Himantopus himantopus;;Black-winged Stilt;Cigüeñuela común;A;A;A;
+Recurvirostra avosetta;;Pied Avocet;Avoceta común;A;A;A;
+CHARADRIIDAE;;;;;;;
+Vanellus vanellus;;Northern Lapwing;Avefría europea;A;A;A;
+Vanellus gregarius;;Sociable Lapwing;Avefría sociable;A;;A;R2
+Pluvialis apricaria;;European Golden Plover;Chorlito dorado europeo;A;A;A;
+Pluvialis fulva;;Pacific Golden Plover;Chorlito dorado siberiano;A;;;R1
+Pluvialis dominica;;American Golden Plover;Chorlito dorado americano;A;;A;R2
+Pluvialis squatarola;squatarola;Grey Plover;Chorlito gris;A;A;A;
+Charadrius hiaticula;psammodromus, hiaticula, ¿tundrae?;Common Ringed Plover;Chorlitejo grande;A;A;A;
+Charadrius semipalmatus;;Semipalmated Plover;Chorlitejo semipalmeado;A;;A;R1
+Charadrius dubius;curonicus;Little Ringed Plover;Chorlitejo chico;A;A;A;
+Charadrius vociferus;vociferus;Killdeer;Chorlitejo culirrojo;A;;;R1
+Charadrius pecuarius;;Kittlitz's Plover;Chorlitejo pecuario;A;;;R1
+Charadrius alexandrinus;alexandrinus;Kentish Plover;Chorlitejo patinegro;A;A;A;
+Charadrius mongolus;mongolus/stegmanni, atrifrons/pamirensis/schafaeri;Lesser Sand Plover;Chorlitejo mongol chico;A;;A;R1
+Charadrius leschenaultii;ASD;Greater Sand Plover;Chorlitejo mongol grande;A;;;R1
+Charadrius morinellus;;Eurasian Dotterel;Chorlito carambolo;A;A;A;/ HBW/BirdLife v3 lo asigna al género Eudromias (E. morinellus). 
+PLUVIANIDAE;;;;;;;
+Pluvianus aegyptius;;Egyptian Plover;Pluvial;D;;B;R1
+SCOLOPACIDAE;;;;;;;
+Bartramia longicauda;;Upland Sandpiper;Correlimos batitú;A;;A;R1
+Numenius phaeopus;islandicus, phaeopus, hudsonicus;Whimbrel;Zarapito trinador;A;A;A;R1 (solo ssp. hudsonicus).
+Numenius tenuirostris;;Slender-billed Curlew;Zarapito fino;B;;;/ Posiblemente extinguida.
+Numenius arquata;arquata, ¿orientalis?;Eurasian Curlew;Zarapito real;A;A;A;
+Limosa lapponica;lapponica;Bar-tailed Godwit;Aguja colipinta;A;A;A;
+Limosa limosa;islandica, limosa;Black-tailed Godwit;Aguja colinegra;A;A;A;
+Arenaria interpres;interpres;Ruddy Turnstone;Vuelvepiedras común;A;A;A;
+Calidris tenuirostris;;Great Knot;Correlimos grande;A;;;R1
+Calidris canutus;canutus, islandica;Red Knot;Correlimos gordo;A;;A;
+Calidris pugnax;;Ruff;Combatiente;A;;A;
+Calidris falcinellus;falcinellus;Broad-billed Sandpiper;Correlimos falcinelo;A;;;R2
+Calidris acuminata;;Sharp-tailed Sandpiper;Correlimos acuminado;A;;;R1
+Calidris himantopus;;Stilt Sandpiper;Correlimos zancolín;A;;;R1
+Calidris ferruginea;;Curlew Sandpiper;Correlimos zarapitín;A;A;A;
+Calidris temminckii;;Temminck's Stint;Correlimos de Temminck;A;;A;
+Calidris ruficollis;;Red-necked Stint;Correlimos cuellirrojo;A;;;R1
+Calidris alba;alba;Sanderling;Correlimos tridáctilo;A;A;A;
+Calidris alpina;arctica, schinzii, alpina;Dunlin;Correlimos común;A;A;A;
+Calidris maritima;;Purple Sandpiper;Correlimos oscuro;A;A;A;
+Calidris bairdii;;Baird's Sandpiper;Correlimos de Baird;A;;A;R2
+Calidris minuta;;Little Stint;Correlimos menudo;A;A;A;
+Calidris minutilla;;Least Sandpiper;Correlimos menudillo;A;;A;R1
+Calidris fuscicollis;;White-rumped Sandpiper;Correlimos culiblanco;A;;A;R2
+Calidris subruficollis;;Buff-breasted Sandpiper;Correlimos canelo;A;;A;
+Calidris melanotos;;Pectoral Sandpiper;Correlimos pectoral;A;;A;
+Calidris pusilla;;Semipalmated Sandpiper;Correlimos semipalmeado;A;;A;R2
+Calidris mauri;;Western Sandpiper;Correlimos de Alaska;A;;;R1
+Limnodromus scolopaceus;;Long-billed Dowitcher;Agujeta escolopácea;A;;A;R2
+Limnodromus griseus;ASD;Short-billed Dowitcher;Agujeta gris;A;;;R1
+Scolopax rusticola;;Eurasian Woodcock;Chocha perdiz;A;A;A;
+Lymnocryptes minimus;;Jack Snipe;Agachadiza chica;A;;A;
+Gallinago media;;Great Snipe;Agachadiza real;A;;;R2
+Gallinago gallinago;gallinago;Common Snipe;Agachadiza común;A;A;A;
+Gallinago delicata;;Wilson's Snipe;Agachadiza de Wilson;;;A;R1
+Xenus cinereus;;Terek Sandpiper;Andarríos del Terek;A;;A;R2
+Phalaropus tricolor;;Wilson's Phalarope;Falaropo tricolor;A;;A;R2 / Asignada al género Steganopus (S. tricolor) por HBW/BirdLife v3.
+Phalaropus lobatus;;Red-necked Phalarope;Falaropo picofino;A;;A;
+Phalaropus fulicarius;;Red Phalarope;Falaropo picogrueso;A;;A;
+Actitis hypoleucos;;Common Sandpiper;Andarríos chico;A;A;A;
+Actitis macularius;;Spotted Sandpiper;Andarríos maculado;A;;A;R2
+Tringa ochropus;;Green Sandpiper;Andarríos grande;A;A;A;
+Tringa solitaria;solitaria;Solitary Sandpiper;Andarríos solitario;A;;;R1
+Tringa flavipes;;Lesser Yellowlegs;Archibebe patigualdo chico;A;;A;R2
+Tringa totanus;totanus, ¿robusta?;Common Redshank;Archibebe común;A;A;A;
+Tringa stagnatilis;;Marsh Sandpiper;Archibebe fino;A;;A;
+Tringa glareola;;Wood Sandpiper;Andarríos bastardo;A;;A;
+Tringa erythropus;;Spotted Redshank;Archibebe oscuro;A;A;A;
+Tringa nebularia;;Common Greenshank;Archibebe claro;A;;A;
+Tringa melanoleuca;;Greater Yellowlegs;Archibebe patigualdo grande;A;;A;R1
+GLAREOLIDAE;;;;;;;
+Cursorius cursor;cursor;Cream-colored Courser;Corredor sahariano;A;A;A;R2 (excepto Canarias y territorios norteafricanos).
+Glareola pratincola;pratincola;Collared Pratincole;Canastera común;A;A;A;
+Glareola nordmanni;;Black-winged Pratincole;Canastera alinegra;A;;;R1
+LARIDAE;;;;;;;
+Rissa tridactyla;tridactyla;Black-legged Kittiwake;Gaviota tridáctila;A;A;A;
+Xema sabini;;Sabine's Gull;Gaviota de Sabine;A;;A;
+Chroicocephalus genei;;Slender-billed Gull;Gaviota picofina;A;A;A;/Asignada al género Larus (L. genei) por HBW/BirdLife v3.
+Chroicocephalus philadelphia;;Bonaparte's Gull;Gaviota de Bonaparte;A;;A;R2 / Asignada al género Larus (L. philadelphia) por HBW/BirdLife v3. 
+Chroicocephalus ridibundus;;Black-headed Gull;Gaviota reidora;A;A;A;/ Asignada al género Larus (L. ridibundus) por HBW/BirdLife v3.
+Chroicocephalus cirrocephalus;¿poiocephalus?;Grey-headed Gull;Gaviota cabecigrís;A;;A;R1 /  Asignada al género Larus (L. cirrocephalus) por HBW/BirdLife v3.
+Hydrocoloeus minutus;;Little Gull;Gaviota enana;A;A;A;
+Rhodostethia rosea;;Ross's Gull;Gaviota rosada;A;;;R1
+Larus atricilla;ASD;Laughing Gull;Gaviota guanaguanare;A;;A;R2 / Asignada al género Leucophaeus (L. atricilla) por IOC v9.1.
+Larus pipixcan;;Franklin's Gull;Gaviota pipizcán;A;;A;R2 / Asignada al género Leucophaeus (L. pipixcan ) por  IOC v9.1.
+Larus audouinii;;Audouin's Gull;Gaviota de Audouin;A;A;A;/ Asignada al género Ichthyaetus (I. audouinii) por  IOC v9.1.
+Larus melanocephalus;;Mediterranean Gull;Gaviota cabecinegra;A;A;A;/ Asignada al género Ichthyaetus (I. melanocephalus) por  IOC v9.1.
+Larus ichthyaetus;;Pallas's Gull;Gavión cabecinegro;A;;;R1 / Asignada al género Ichthyaetus (I. ichthyaetus) por  IOC v9.1.
+Larus canus;canus;Mew Gull;Gaviota cana;A;A;A;
+Larus delawarensis;;Ring-billed Gull;Gaviota de Delaware;A;A;A;
+Larus marinus;;Great Black-backed Gull;Gavión atlántico;A;A;A;
+Larus dominicanus;vetula;Kelp Gull;Gaviota cocinera;A;;;R1
+Larus glaucescens;;Glaucous-winged Gull;Gaviota de Bering;;;A;R1
+Larus hyperboreus;hyperboreus;Glaucous Gull;Gavión hiperbóreo;A;A;A;
+Larus glaucoides;kumlieni, glaucoides, thayeri;Iceland Gull;Gaviota groenlandesa;A;A;A;R1 (ssp. thayeri), R2 (ssp. kumlieni) / Para HBW/BirdLife v3,  «kumlieni» sería una población híbrida entre las sspp. glaucoides y thayeri.
+Larus argentatus;argenteus, argentatus;European Herring Gull;Gaviota argéntea europea;A;;;
+Larus smithsonianus;;American Herring Gull;Gaviota argéntea americana;A;;;R1
+Larus cachinnans;;Caspian Gull;Gaviota del Caspio;A;;;
+Larus michahellis;atlantis, michaellis;Yellow-legged Gull;Gaviota patiamarilla;A;A;A;R1 (solo ssp. atlantis, excepto Canarias).
+Larus fuscus;graellsii, intermedius, fuscus;Lesser Black-backed Gull;Gaviota sombría;A;A;A;R1 (solo ssp. fuscus).
+Gelochelidon nilotica;nilotica;Gull-billed Tern;Pagaza piconegra;A;A;A;
+Hydroprogne caspia;;Caspian Tern;Pagaza piquirroja;A;A;A;
+Thalasseus maximus;maximus, albididorsalis;Royal Tern;Charrán real;A;A;A;R2
+Thalasseus bengalensis;emigratus;Lesser Crested Tern;Charrán bengalí;A;A;A;
+Thalasseus sandvicensis;;Sandwich Tern;Charrán patinegro;A;A;A;
+Thalasseus elegans;;Elegant Tern;Charrán elegante;A;;;R2
+Sternula albifrons;albifrons;Little Tern;Charrancito común;A;A;A;
+Onychoprion anaethetus;ASD;Bridled Tern;Charrán embridado;A;;;R1
+Onychoprion fuscatus;ASD;Sooty Tern;Charrán sombrío;A;;A;R1
+Sterna dougallii;dougallii;Roseate Tern;Charrán rosado;A;;A;
+Sterna hirundo;hirundo;Common Tern;Charrán común;A;A;A;
+Sterna paradisaea;;Arctic Tern;Charrán ártico;A;;A;
+Sterna forsteri;;Forster's Tern;Charrán de Forster;A;;;R1
+Chlidonias hybrida;hybrida;Whiskered Tern;Fumarel cariblanco;A;A;A;
+Chlidonias leucopterus;;White-winged Tern;Fumarel aliblanco;A;;A;
+Chlidonias niger;niger;Black Tern;Fumarel común;A;A;A;
+STERCORARIIDAE;;;;;;;
+Stercorarius maccormicki;;South Polar Skua;Págalo polar;A;;A;R1 / Asignada al género Catharacta (C. maccormicki) por HBW/BirdLife v3.
+Stercorarius skua;;Great Skua;Págalo grande;A;A;A;Asignada al género Catharacta (C. skua) por HBW/BirdLife v3.
+Stercorarius pomarinus;;Pomarine Jaeger;Págalo pomarino;A;A;A;
+Stercorarius parasiticus;;Parasitic Jaeger;Págalo parásito;A;A;A;
+Stercorarius longicaudus;longicaudus;Long-tailed Jaeger;Págalo rabero;A;;A;
+ALCIDAE;;;;;;;
+Alle alle;alle;Little Auk;Mérgulo atlántico;A;;A;R2
+Uria aalge;aalge, albionis;Common Murre;Arao común;A;A;A;
+Alca torda;islandica;Razorbill;Alca común;A;A;;
+Cepphus grylle;ASD;Black Guillemot;Arao aliblanco;A;;;R1
+Fratercula arctica;;Atlantic Puffin;Frailecillo atlántico;A;A;A;
+PTEROCLIDAE;;;;;;;
+Syrrhaptes paradoxus;;Pallas's Sandgrouse;Ganga de Pallas;B;;;
+Pterocles alchata;alchata, caudacutus;Pin-tailed Sandgrouse;Ganga ibérica;A;A;;
+Pterocles orientalis;orientalis;Black-bellied Sandgrouse;Ganga ortega;A;;A;
+COLUMBIDAE;;;;;;;
+Columba livia;livia;Rock Dove;Paloma bravía;A (i);A (i);A (i);
+Columba oenas;oenas;Stock Dove;Paloma zurita;A;;;
+Columba palumbus;palumbus;Common Wood Pigeon;Paloma torcaz;A;A;A;
+Columba bollii;;Bolle's Pigeon;Paloma turqué;;;A;
+Columba junoniae;;Laurel Pigeon;Paloma rabiche;;;A (i);
+Streptopelia turtur;turtur, arenicola;European Turtle Dove;Tórtola europea;A;A;A;
+Streptopelia orientalis;meena;Oriental Turtle Dove;Tórtola oriental;A;;;R1
+Streptopelia decaocto;decaocto;Eurasian Collared Dove;Tórtola turca;A;A;A;
+Spilopelia senegalensis;phoenicophila;Laughing Dove;Tórtola senegalesa;A;A;A;R2 (excepto Canarias y territorios del norte de África).
+CUCULIDAE;;;;;;;
+Clamator glandarius;;Great Spotted Cuckoo;Críalo europeo;A;A;A;
+Coccyzus americanus;;Yellow-billed Cuckoo;Cuclillo piquigualdo;A;;A;R1
+Cuculus canorus;canorus, bangsi;Common Cuckoo;Cuco común;A;A;A;
+TYTONIDAE;;;;;;;
+Tyto alba;alba, guttata, gracilirostris;Western Barn Owl;Lechuza común;A;A;A;
+STRIGIDAE;;;;;;;
+Otus scops;scops, mallorcae;Eurasian Scops Owl;Autillo europeo;A;A;A;
+Bubo bubo;hispanus, bubo;Eurasian Eagle-Owl;Búho real;A;;;
+Strix aluco;mauritanica, sylvatica;Tawny Owl;Cárabo común;A;A;;
+Surnia ulula;caparoch;Northern Hawk-Owl;Cárabo gavilán;;;B;R1
+Athene noctua;vidalii, glaux;Little Owl;Mochuelo europeo;A;A;;
+Aegolius funereus;funereus;Boreal Owl;Mochuelo boreal;A;;;
+Asio otus;otus, canariensis;Long-eared Owl;Búho chico;A;;A;
+Asio flammeus;flammeus;Short-eared Owl;Búho campestre;A;A;A;
+Asio capensis;tingitanus;Marsh Owl;Búho moro;A;;;R1
+CAPRIMULGIDAE;;;;;;;
+Chordeiles minor;ASD;Common Nighthawk;Añapero yanqui;A;;A;R1
+Caprimulgus ruficollis;ruficollis;Red-necked Nightjar;Chotacabras cuellirrojo;A;A;A;
+Caprimulgus europaeus;europaeus, meridionalis;European Nightjar;Chotacabras europeo;A;A;A;
+Caprimulgus aegyptius;saharae;Egyptian Nightjar;Chotacabras egipcio;;;A;R1
+APODIDAE;;;;;;;
+Chaetura pelagica;;Chimney Swift;Vencejo de chimenea;A;;A;R1
+Tachymarptis melba;melba;Alpine Swift;Vencejo real;A;A;A;
+Apus apus;apus;Common Swift;Vencejo común;A;A;A;
+Apus unicolor;;Plain Swift;Vencejo unicolor;;;A;
+Apus pallidus;brehmorum;Pallid Swift;Vencejo pálido;A;A;A;
+Apus affinis;galilejensis;Little Swift;Vencejo moro;A;A;A;
+Apus caffer;;White-rumped Swift;Vencejo cafre;A;A;A;
+CORACIIDAE;;;;;;;
+Coracias abyssinicus;;Abyssinian Roller;Carraca abisinia;;;A;R1
+Coracias garrulus;garrulus;European Roller;Carraca europea;A;A;A;
+ALCEDINIDAE;;;;;;;
+Alcedo atthis;ispida, atthis;Common Kingfisher;Martín pescador común;A;A;A;
+Megaceryle alcyon;;Belted Kingfisher;Martín gigante norteamericano;A;;;R1
+MEROPIDAE;;;;;;;
+Merops persicus;persicus, chrysocercus;Blue-cheeked Bee-eater;Abejaruco persa;A;;A;R1
+Merops apiaster;;European Bee-eater;Abejaruco europeo;A;A;A;
+UPUPIDAE;;;;;;;
+Upupa epops;epops;Eurasian Hoopoe;Abubilla común;A;A;A;
+PICIDAE;;;;;;;
+Jynx torquilla;torquilla;Eurasian Wryneck;Torcecuello euroasiático;A;A;A;
+Dryobates minor;buturlini;Lesser Spotted Woodpecker;Pico menor;A;;;
+Dendrocopos medius;medius;Middle Spotted Woodpecker;Pico mediano;A;;;/ Asignada al género Dendrocoptes (D. medius) o al género Leiopicus (L. medius) por IOC v9.1 y HBW/BirdLife v3 respectivamente.
+Dendrocopos major;hispanus, canariensis, thanneri, mauritanus;Great Spotted Woodpecker;Pico picapinos;A;A;A;
+Dendrocopos leucotos;lilfordi;White-backed Woodpecker;Pico dorsiblanco;A;;;
+Dryocopus martius;martius;Black Woodpecker;Picamaderos negro;A;;;
+Picus sharpei;;Iberian Green Woodpecker;Pito real ibérico;A;;;
+Picus vaillantii;;Levaillant's Green Woodpecker;Pito real bereber;;A;;R1 
+FALCONIDAE;;;;;;;
+Falco naumanni;;Lesser Kestrel;Cernícalo primilla;A;A;A;
+Falco tinnunculus;tinnunculus, canariensis, dacotiae;Common Kestrel;Cernícalo vulgar;A;A;A;
+Falco vespertinus;;Red-footed Falcon;Cernícalo patirrojo;A;A;A;
+Falco eleonorae;;Eleonora's Falcon;Halcón de Eleonora;A;A;A;
+Falco columbarius;subaesalon, aesalon;Merlin;Esmerejón;A;A;A;
+Falco subbuteo;subbuteo;Eurasian Hobby;Alcotán europeo;A;A;A;
+Falco biarmicus;erlangeri;Lanner Falcon;Halcón borní;A (i);A;;R2 (excepto territorios del norte de África).
+Falco cherrug;cherrug;Saker Falcon;Halcón sacre;A (i);;;R1
+Falco rusticolus;;Gyrfalcon;Halcón gerifalte;A (i);;;R1
+Falco peregrinus;peregrinus, calidus, brookei;Peregrine Falcon;Halcón peregrino;A;A;A;
+Falco pelegrinoides;pelegrinoides;Barbary Falcon;Halcón tagarote;;A;A;/ Considerada como ssp. de F. peregrinus (F. p. pelegrinoides) por HBW/BirdLife v3.
+MALACONOTIDAE;;;;;;;
+Tchagra senegalus;cucullatus;Black-crowned Tchagra;Chagra del Senegal;A;A;;R1 (excepto territorios del norte de África).
+LANIIDAE;;;;;;;
+Lanius cristatus;cristatus;Brown Shrike;Alcaudón pardo;A;;;R1
+Lanius collurio;;Red-backed Shrike;Alcaudón dorsirrojo;A;;A;
+Lanius isabellinus;isabellinus;Isabelline Shrike;Alcaudón isabel;A;;A;R2
+Lanius minor;;Lesser Grey Shrike;Alcaudón chico;A (i);;;
+Lanius excubitor;excubitor, koenigi, algeriensis, pallidirostris;Great Grey Shrike;Alcaudón norteño;A;A;A;R1 (solo sspp. excubitor y pallidirostris).
+Lanius meridionalis;;Southern Grey Shrike;Alcaudón real;A;A;;
+Lanius senator;senator, badius, niloticus;Woodchat Shrike;Alcaudón común;A;A;A;R1 (solo ssp. niloticus).
+Lanius nubicus;;Masked Shrike;Alcaudón núbico;A;;;R1
+VIREONIDAE;;;;;;;
+Vireo olivaceus;olivaceus;Red-eyed Vireo;Vireo chiví;A;;;R1 / Especie  considerada monotípica por IOC v9.1, tras separación de V. olivaceus y V. chivi.
+ORIOLIDAE;;;;;;;
+Oriolus oriolus;;Eurasian Golden Oriole;Oropéndola europea;A;A;A;
+CORVIDAE;;;;;;;
+Garrulus  glandarius;glandarius, fasciatus, whitakeri;Eurasian Jay;Arrendajo euroasiático;A;A;;
+Cyanopica cooki;;Iberian Magpie;Rabilargo ibérico;A;;;
+Pica pica;melanotos;Eurasian Magpie;Urraca común;A;;;
+Pica mauritanica;;Maghreb Magpie;Urraca magrebí;;A;;
+Nucifraga caryocatactes;caryocatactes;Spotted Nutcracker;Cascanueces norteño;A;;;R1
+Pyrrhocorax pyrrhocorax;erythroramphos, barbarus;Red-billed Chough;Chova piquirroja;A;A;A;
+Pyrrhocorax graculus;graculus;Alpine Chough;Chova piquigualda;A;A;;
+Corvus monedula;monedula/soemmerringii, spermologus;Western Jackdaw;Grajilla occidental;A;A;A;R1 (solo ssp. monedula/soemmerringi) / Asignada al género Coloeus (C. monedula) por IOC v9.1.
+Corvus frugilegus;frugilegus;Rook;Graja;A;;;
+Corvus corone;corone;Carrion Crow;Corneja negra;A;A;D;
+Corvus cornix;cornix;Hooded Crow;Corneja cenicienta;A;A;;R2 / HBW/BirdLife v3 la considera ssp. de C. corone (C. c. cornix).
+Corvus ruficollis;;Brown-necked Raven;Cuervo desertícola;D;;A;R1
+Corvus corax;hispanus, tingitanus, canariensis;Northern Raven;Cuervo grande;A;A;A;
+BOMBYCILLIDAE;;;;;;;
+Bombycilla garrulus;garrulus;Bohemian Waxwing;Ampelis europeo;A;;;R2
+PARIDAE;;;;;;;
+Periparus ater;ater, vieirae;Coal Tit;Carbonero garrapinos;A;A;;
+Lophophanes cristatus;weigoldi, mitratus;European Crested Tit;Herrerillo capuchino;A;A;;
+Poecile palustris;palustris;Marsh Tit;Carbonero palustre;A;;;
+Cyanistes teneriffae;palmensis, ultramarinus, degener, ombriosus, teneriffae, hedwigae;African Blue Tit;Herrerillo canario;D;A;A;R1 (excepto territorios del norte de África y Canarias) / Para la ssp. de Gran Canaria se adopta la grafía hedwigae, siguiendo a Manegold (2012). 
+Cyanistes caeruleus;cauruleus, balearicus, ogliastrae;Eurasian Blue Tit;Herrerillo común;A;;;
+Parus major;major, corsus, mallorcae, excelsus;Great Tit;Carbonero común;A;A;;
+REMIZIDAE;;;;;;;
+Remiz pendulinus;pendulinus;Eurasian Penduline Tit;Pájaro moscón europeo;A;;;
+PANURIDAE;;;;;;;
+Panurus biarmicus;biarmicus;Bearded Reedling;Bigotudo;A;;;
+ALAUDIDAE;;;;;;;
+Alaemon alaudipes;alaudipes;Greater Hoopoe-Lark;Alondra ibis;;A;A;R1
+Ammomanes cinctura;arenicolor;Bar-tailed Lark;Terrera colinegra;A;;A;R1
+Lullula arborea;arborea, pallida;Woodlark;Alondra totovía;A;;;
+Alauda arvensis;arvensis, sierrae, ¿harterti?, cantarella;Eurasian Skylark;Alondra común;A;A;A;
+Galerida theklae;theklae, erlangeri;Thekla Lark;Cogujada montesina;A;A;;
+Galerida cristata;pallida, cristata, kleinschmidti, carthaginis;Crested Lark;Cogujada común;A;A;;
+Eremophila alpestris;flava;Horned Lark;Alondra cornuda;A;;;R1
+Calandrella brachydactyla;brachydactyla, ¿rubiginosa?;Greater Short-toed Lark;Terrera común;A;A;A;
+Melanocorypha calandra;calandra;Calandra Lark;Calandria común;A;A;A;
+Chersophilus duponti;duponti;Dupont's Lark;Alondra ricotí;A;;;
+Alaudala rufescens;rufescens †, polatzeki, apetzii, ¿minor?;Lesser Short-toed Lark;Terrera marismeña;A;A;A;/ A. r. rufescens extinguida.
+PYCNONOTIDAE;;;;;;;
+Pycnonotus barbatus;barbatus;Common Bulbul;Bulbul naranjero;A;A;;R1 (excepto territorios del norte de África).
+HIRUNDINIDAE;;;;;;;
+Riparia riparia;riparia;Sand Martin;Avión zapador;A;A;A;
+Hirundo rustica;rustica;Barn Swallow;Golondrina común;A;A;A;
+Ptyonoprogne rupestris;;Eurasian Crag Martin;Avión roquero;A;A;A;
+Delichon urbicum;urbicum, meridionale;Common House Martin;Avión común occidental;A;A;A;
+Cecropis daurica;rufula;Red-rumped Swallow;Golondrina dáurica;A;A;A;
+Petrochelidon pyrrhonota / Petrochelidon fulva;;American Cliff Swallow/Cave Swallow;Golondrina risquera/Golondrina pueblera;;;A;R1
+SCOTOCERCIDAE;;;;;;;
+Cettia cetti;cetti;Cetti's Warbler;Cetia ruiseñor;A;A;;/ Asignada a la familia Cettidae por IOC v9.1 y a la familia Scotocercidae por HBW/BirdLife v3.
+AEGITHALIDAE;;;;;;;
+Aegithalos caudatus;europaeus, taiti, irbii;Long-tailed Tit;Mito común;A;;;R1 (solo ssp. europaeus).
+PHYLLOSCOPIDAE;;;;;;;
+Phylloscopus sibilatrix;;Wood Warbler;Mosquitero silbador;A;A;A;
+Phylloscopus bonelli;;Western Bonelli's Warbler;Mosquitero papialbo;A;A;A;
+Phylloscopus humei;humei;Hume's Leaf Warbler;Mosquitero de Hume;A;;;R2
+Phylloscopus inornatus;;Yellow-browed Warbler;Mosquitero bilistado;A;A;A;
+Phylloscopus proregulus;;Pallas's Leaf Warbler;Mosquitero de Pallas;A;A;;R2
+Phylloscopus schwarzi;;Radde's Warbler;Mosquitero de Schwarz;A;;;R1
+Phylloscopus fuscatus;;Dusky Warbler;Mosquitero sombrío;A;;;R1 / Tratada como monotípica, siguiendo a Shirihai & Svenson (2018).
+Phylloscopus trochilus;trochilus, acredula;Willow Warbler;Mosquitero musical;A;A;A;
+Phylloscopus canariensis;canariensis, exsul †;Canary Islands Chiffchaff;Mosquitero canario;;;A;/P. c. exsul extinguida.
+Phylloscopus collybita;abietinus, collybita, tristis;Common Chiffchaff;Mosquitero común;A;A;A;R2 (solo ssp. tristis) / El taxón tristis es elevado a especie (P. tristis) por HBW/BirdLife v3.
+Phylloscopus ibericus;;Iberian Chiffchaff;Mosquitero ibérico;A;A;;
+Phylloscopus trochiloides;viridanus;Greenish Warbler;Mosquitero verdoso;A;;;R1
+Phylloscopus borealis;;Arctic Warbler;Mosquitero boreal;A;;;R1
+ACROCEPHALIDAE;;;;;;;
+Acrocephalus arundinaceus;arundinaceus;Great Reed Warbler;Carricero tordal;A;A;A;
+Acrocephalus melanopogon;melanopogon;Moustached Warbler;Carricerín real;A;A;;
+Acrocephalus paludicola;;Aquatic Warbler;Carricerín cejudo;A;A;A;
+Acrocephalus schoenobaenus;;Sedge Warbler;Carricerín común;A;A;A;
+Acrocephalus agricola;ASD;Paddyfield Warbler;Carricero agrícola;A;;;R2
+Acrocephalus dumetorum;;Blyth's Reed Warbler;Carricero de Blyth;A;;;R1
+Acrocephalus scirpaceus;scirpaceus, ambiguus;Common Reed Warbler;Carricero común;A;A;A;/ IOC 9.1 incluye el taxón ambiguus dentro de una nueva especie denominada A. baeticatus (A. b. ambiguus).
+Acrocephalus palustris;;Marsh Warbler;Carricero políglota;A;;;R1
+Iduna caligata;;Booted Warbler;Zarcero escita;A;;;R1
+Iduna pallida;¿reiseri?;Eastern Olivaceous Warbler;Zarcero pálido;;;A;R1
+Iduna opaca;;Western Olivaceous Warbler;Zarcero bereber;A;A;A;
+Hippolais polyglotta;;Melodious Warbler;Zarcero políglota;A;A;A;
+Hippolais icterina;;Icterine Warbler;Zarcero icterino;A;A;A;
+LOCUSTELLIDAE;;;;;;;
+Locustella naevia;naevia;Common Grasshopper Warbler;Buscarla pintoja;A;A;A;
+Locustella fluviatilis;;River Warbler;Buscarla fluvial;A;;;R1
+Locustella luscinioides;luscinioides;Savi's Warbler;Buscarla unicolor;A;;;
+CISTICOLIDAE;;;;;;;
+Cisticola juncidis;cisticola;Zitting Cisticola;Cistícola buitrón;A;A;;
+SYLVIIDAE;;;;;;;
+Sylvia atricapilla;heineken, pauluccii, atricapilla;Eurasian Blackcap;Curruca capirotada;A;A;A;
+Sylvia borin;borin;Garden Warbler;Curruca mosquitera;A;A;A;
+Sylvia nisoria;nisoria;Barred Warbler;Curruca gavilana;A;;;R1
+Sylvia curruca;curruca, blythi/halimodendri;Lesser Whitethroat;Curruca zarcerilla;A;;A;R2
+Sylvia hortensis;hortensis;Western Orphean Warbler;Curruca mirlona occidental;A;A;A;
+Sylvia nana;;Asian Desert Warbler;Curruca enana;A;;;R1
+Sylvia deserti;;African Desert Warbler;Curruca sahariana;A;;A;R1
+Sylvia communis;communis;Common Whitethroat;Curruca zarcera;A;A;A;
+Sylvia undata;dartfordiensis, undata, toni;Dartford Warbler;Curruca rabilarga;A;A;;
+Sylvia sarda;;Marmora's Warbler;Curruca sarda;A;;;R1
+Sylvia balearica;;Balearic Warbler;Curruca balear;A;;;
+Sylvia deserticola;maroccana;Tristram's Warbler;Curruca del Atlas;A;;A;R1
+Sylvia conspicillata;conspicillata, orbitalis;Spectacled Warbler;Curruca tomillera;A;A;A;
+Sylvia cantillans;cantillans, albistriata, iberiae, ¿inornata?;Subalpine Warbler;Curruca carrasqueña;A;A;A;R1 (solo sspp. cantillans y albistriata).
+Sylvia subalpina;;Moltoni's Warbler;Curruca subalpina;A;;;
+Sylvia melanocephala;melanocephala, leucogastra;Sardinian Warbler;Curruca cabecinegra;A;A;A;
+Sylvia ruppeli;;Rüppell's Warbler;Curruca de Rüppell;A;;;R1
+REGULIDAE;;;;;;;
+Regulus ignicapilla;ignicapilla, balearicus;Common Firecrest;Reyezuelo listado;A;A;;
+Regulus regulus;regulus, teneriffae, ellenthalerae;Goldcrest;Reyezuelo sencillo;A;;A;
+TROGLODYTIDAE;;;;;;;
+Troglodytes troglodytes;troglodytes, kabylorum;Eurasian Wren;Chochín paleártico;A;A;;
+SITTIDAE;;;;;;;
+Sitta europaea;caesia, hispaniensis;Eurasian Nuthatch;Trepador azul;A;;;
+TICHODROMIDAE;;;;;;;
+Tichodroma muraria;muraria;Wallcreeper;Treparriscos;A;;;/ HBW/BirdLife v3 lo incluye en la familia Sittidae.
+CERTHIIDAE;;;;;;;
+Certhia familiaris;macrodactyla;Eurasian Treecreeper;Agateador euroasiático;A;;;
+Certhia brachydactyla;megarhynchos, brachydactyla, mauritanica;Short-toed Treecreeper;Agateador europeo;A;A;;
+MIMIDAE;;;;;;;
+Dumetella carolinensis;;Grey Catbird;Pájaro gato gris;;;A;R1
+STURNIDAE;;;;;;;
+Pastor roseus;;Rosy Starling;Estornino rosado;A;;A;R2
+Sturnus vulgaris;vulgaris;Common Starling;Estornino pinto;A;A;A;
+Sturnus unicolor;;Spotless Starling;Estornino negro;A;A;A;
+TURDIDAE;;;;;;;
+Zoothera aurea;ASD;White's Thrush;Zorzal dorado de Siberia;B;;;R1
+Turdus torquatus;torquatus, alpestris;Ring Ouzel;Mirlo capiblanco;A;A;A;
+Turdus merula;merula, cabrerae, mauritanicus;Common Blackbird;Mirlo común;A;A;A;
+Turdus obscurus;;Eyebrowed Thrush;Zorzal rojigrís;A;;;R1
+Turdus naumanni;;Naumann's Thrush;Zorzal de Naumann;A;;;R1
+Turdus pilaris;;Fieldfare;Zorzal real;A;A;A;
+Turdus iliacus;coburni, iliacus;Redwing;Zorzal alirrojo;A;A;A;
+Turdus philomelos;philomelos, clarkei;Song Thrush;Zorzal común;A;A;A;
+Turdus viscivorus;viscivorus;Mistle Thrush;Zorzal charlo;A;A;A;
+Turdus migratorius;¿nigrideus?;American Robin;Zorzal robín;A;;;R1
+MUSCICAPIDAE;;;;;;;
+Cercotrichas galactotes;galactotes;Rufous-tailed Scrub Robin;Alzacola rojizo;A;A;A;
+Muscicapa striata;striata, balearica;Spotted Flycatcher;Papamoscas gris;A;A;A;/ IOC v9.1 incluye la ssp. balaearica en una nueva especie denominada M. tyrrhenica, dando lugar al taxón M. t. balearica.
+Erithacus rubecula;melophilus, rubecula, superbus;European Robin;Petirrojo europeo;A;A;A;/ La ssp. grancanaria marionae, no reconocida por Shirihai & Svensson (2018), requiere más estudios.
+Larvivora cyane;ASD;Siberian Blue Robin;Ruiseñor azul;A;;;R1
+Luscinia svecica;svecica, namnetum, cyanecula, azuricollis ;Bluethroat;Ruiseñor pechiazul;A;A;A;R1 (solo ssp. svecica)/ Asignada al género Cyanecula (C. scvecica) por HBW/BirdLife v3.
+Luscinia megarhynchos;megarhynchos;Common Nightingale;Ruiseñor común;A;A;A;
+Tarsiger cyanurus;;Red-flanked Bluetail;Ruiseñor coliazul;A;;;R1
+Ficedula hypoleuca;hypoleuca, iberiae;European Pied Flycatcher;Papamoscas cerrojillo;A;A;A;
+Ficedula albicollis;;Collared Flycatcher;Papamoscas acollarado;A;;A;R2
+Ficedula semitorquata;;Semicollared Flycatcher;Papamoscas semiacollarado;A;;;R1
+Ficedula parva;;Red-breasted Flycatcher;Papamoscas papirrojo;A;A;A;R2
+Phoenicurus ochruros;gibraltariensis;Black Redstart;Colirrojo tizón;A;A;A;
+Phoenicurus phoenicurus;phoenicurus;Common Redstart;Colirrojo real;A;A;A;
+Phoenicurus moussieri;;Moussier's Redstart;Colirrojo diademado;A;A;;R1 (excepto territorios del norte de África).
+Monticola saxatilis;;Common Rock Thrush;Roquero rojo;A;A;A;
+Monticola solitarius;solitarius;Blue Rock Thrush;Roquero solitario;A;A;A;
+Saxicola rubetra;;Whinchat;Tarabilla norteña;A;A;A;
+Saxicola dacotiae;dacotiae, murielae †;Canary Islands Stonechat;Tarabilla canaria;;;A;/ S. d. murielae extinguida.
+Saxicola rubicola;hibernans, rubicola;European Stonechat;Tarabilla europea;A;A;A;/ Según HBW/BirdLife v3 se denomina S. torquatus, e incluye también a los taxones maurus, stejnegeri y hemprichii como subespecies.
+Saxicola maurus;hemprichii, maurus/stejnegeri;Siberian Stonechat;Tarabilla siberiana;A;;A;R1 / Esta especie no existe para HBW /BirdLife v3, que incluye los taxones maurus, stejnegeri y hemprichii como sspp. de S. torquatus.
+Oenanthe oenanthe;leucorhoa, oenanthe, libanotica, seebohmi;Northern Wheatear;Collalba gris;A;A;A;R1 (solo ssp. seebohmi) / El taxón seebohmi es elevado a especie (O. seebohmi) por HBW/BirdLife v3.
+Oenanthe isabellina;;Isabelline Wheatear;Collalba isabel;A;;A;R2
+Oenanthe deserti;homochroa, ¿deserti?;Desert Wheatear;Collalba desértica;A;;A;R2
+Oenanthe hispanica;hispanica, melanoleuca;Black-eared Wheatear;Collalba rubia;A;A;A;R1 (solo ssp. melanoleuca).
+Oenanthe leucura;leucura, riggenbachi;Black Wheatear;Collalba negra;A;A;;
+Oenanthe leucopyga;leucopyga;White-crowned Wheatear;Collalba yebélica;;;A;R1
+CINCLIDAE;;;;;;;
+Cinclus cinclus;cinclus, aquaticus;White-throated Dipper;Mirlo acuático europeo;A;;;
+PASSERIDAE;;;;;;;
+Passer domesticus;domesticus, balearoibericus, tingitanus;House Sparrow;Gorrión común;A;A;E1;
+Passer hispaniolensis;hispaniolensis;Spanish Sparrow;Gorrión moruno;A;A;A;
+Passer montanus;montanus;Eurasian Tree Sparrow;Gorrión molinero;A;A;E1;
+Petronia petronia;petronia, barbara;Rock Sparrow;Gorrión chillón;A;A;A;
+Montifringilla nivalis;nivalis;White-winged Snowfinch;Gorrión alpino;A;;;
+PRUNELLIDAE;;;;;;;
+Prunella collaris;collaris;Alpine Accentor;Acentor alpino;A;;;
+Prunella modularis;modularis, mabbotti;Dunnock;Acentor común;A;A;A;
+MOTACILLIDAE;;;;;;;
+Motacilla flava;flavissima, flava, iberiae, cinereocapilla, feldegg, thunbergi;Western Yellow Wagtail;Lavandera boyera;A;A;A;R2 (solo ssp. feldegg).
+Motacilla citreola;citreola;Citrine Wagtail;Lavandera cetrina;A;;A;
+Motacilla cinerea;cinerea, canariensis;Grey Wagtail;Lavandera cascadeña;A;A;A;/ Se acepta la ssp. canariensis, siguiendo a Tyler (2018).
+Motacilla alba;yarrellii, alba, subpersonata;White Wagtail;Lavandera blanca;A;A;A;"R1 (ssp. subpersonata, excepto territorios del norte de África); la ssp. yarrellii se considera rara en Canarias."
+Anthus richardi;;Richard's Pipit;Bisbita de Richard;A;;A;
+Anthus godlewskii;;Blyth's Pipit;Bisbita estepario;A;;;R1
+Anthus campestris;;Tawny Pipit;Bisbita campestre;A;A;A;
+Anthus pratensis;;Meadow Pipit;Bisbita pratense;A;A;A;
+Anthus trivialis;trivialis;Tree Pipit;Bisbita arbóreo;A;A;A;
+Anthus hodgsoni;yunnanensis;Olive-backed Pipit;Bisbita de Hodgson;A;A;A;R2
+Anthus cervinus;;Red-throated Pipit;Bisbita gorgirrojo;A;;A;
+Anthus rubescens;rubescens;Buff-bellied Pipit;Bisbita norteamericano;A;;;R1
+Anthus spinoletta;spinoletta;Water Pipit;Bisbita alpino;A;A;A;
+Anthus petrosus;littoralis;Eurasian Rock Pipit;Bisbita costero;A;;A;
+Anthus berthelotii;berthelotii;Berthelot's Pipit;Bisbita caminero;;;A;/ Tratada como politípica, siguiendo a Illera et al. (2007) y Shirihai & Svensson (2018).
+FRINGILLIDAE;;;;;;;
+Fringilla coelebs;coelebs, africana, canariensis, bakeri, ombriosa, palmae;Common Chaffinch;Pinzón vulgar;A;A;A;R1 (solo ssp. africana, excepto territorios del norte de África).
+Fringilla teydea;;Tenerife Blue Chaffinch;Pinzón azul de Tenerife;;;A;
+Fringilla polatzeki;;Gran Canaria Blue Chaffinch;Pinzón azul de Gran Canaria;;;A (i);
+Fringilla montifringilla;;Brambling;Pinzón real;A;A;A;
+Coccothraustes coccothraustes;coccothraustes, buvryi;Hawfinch;Picogordo común;A;A;A;
+Pyrrhula pyrrhula;europaea, iberiae;Eurasian Bullfinch;Camachuelo común;A;A;;
+Bucanetes githagineus;amantum, zedlitzi;Trumpeter Finch;Camachuelo trompetero;A;A;A;
+Carpodacus erythrinus;erythrinus;Common Rosefinch;Camachuelo carminoso;A;A;A;R2
+Chloris chloris;chloris, aurantiiventris, vanmarli;European Greenfinch;Verderón común;A;A;A;
+Linaria flavirostris;ASD;Twite;Pardillo piquigualdo;A;;;R1
+Linaria cannabina;cannabina, mediterranea, meadewaldoi, harterti;Common Linnet;Pardillo común;A;A;A;
+Acanthis flammea;flammea, cabaret;Redpoll;Pardillo norteño;A;A;;R1 (ssp. flammea), R2 (ssp. cabaret y ssp. sin asignar) /El taxón cabaret es elevado al rango de especie (A. cabaret) por IOC v9.1.
+Loxia curvirostra;curvirostra, balearica, poliogyna;Red Crossbill;Piquituerto común;A;A;A;
+Carduelis carduelis;britannica, carduelis, parva;European Goldfinch;Jilguero europeo;A;A;A;
+Carduelis citrinella;;Citril Finch;Verderón serrano;A;A;;
+Serinus serinus;;European Serin;Serín verdecillo;A;A;A;
+Serinus canaria;;Atlantic Canary;Serín canario;;;A;
+Spinus spinus;;Eurasian Siskin;Jilguero lúgano;A;A;A;
+CALCARIIDAE;;;;;;;
+Calcarius lapponicus;lapponicus;Lapland Longspur;Escribano lapón;A;;A;R2
+Plectrophenax nivalis;nivalis, insulae;Snow Bunting;Escribano nival;A;A;A;
+EMBERIZIDAE;;;;;;;
+Emberiza calandra;calandra;Corn Bunting;Escribano triguero;A;A;A;
+Emberiza citrinella;citrinella;Yellowhammer;Escribano cerillo;A;A;;
+Emberiza leucocephalos;¿leucocephalos?;Pine Bunting;Escribano cabeciblanco;A;;;R1
+Emberiza cia;cia;Rock Bunting;Escribano montesino;A;A;;
+Emberiza hortulana;;Ortolan Bunting;Escribano hortelano;A;A;A;
+Emberiza caesia;;Cretzschmar's Bunting;Escribano ceniciento;A;;;R1
+Emberiza cirlus;;Cirl Bunting;Escribano soteño;A;A;;
+Emberiza sahari;;House Bunting;Escribano sahariano;A;A;;R1/ Tratada como monotípica siguiendo a Shirihai & Svensson (2018).
+Emberiza pusilla;;Little Bunting;Escribano pigmeo;A;A;A;R2
+Emberiza rustica;rustica;Rustic Bunting;Escribano rústico;A;;;R1/ Tratada como politípica siguiendo a Shirihai & Svensson (2018).
+Emberiza aureola;¿aureola?;Yellow-breasted Bunting;Escribano aureolado;A;;;R1
+Emberiza melanocephala;;Black-headed Bunting;Escribano cabecinegro;A (i);;;R1
+Emberiza bruniceps;;Red-headed Bunting;Escribano carirrojo;A;;;R1
+Emberiza schoeniclus;lusitanica, schoeniclus, witherbyi;Common Reed Bunting;Escribano palustre;A;A;A;
+Melospiza melodia;melodia/atlantica;Song Sparrow;Chingolo cantor;A;;;R1
+ICTERIDAE;;;;;;;
+Dolichonyx oryzivorus;;Bobolink;Tordo charlatán;;;A;R1
+PARULIDAE;;;;;;;
+Parkesia noveboracensis;;Northern Waterthrush;Reinita charquera norteña;;;A;R1
+Mniotilta varia;;Black-and-white Warbler;Reinita trepadora;;;A;R1
+Geothlypis trichas;¿trichas?;Common Yellowthroat;Mascarita común;A;;;R1
+Setophaga coronata;¿coronata?;Myrtle Warbler;Reinita coronada;A;;A;R1
