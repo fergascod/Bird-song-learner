@@ -1,662 +1,454 @@
-,,Family (Scientific),Genus,Species (Scientific),Subspecies,Nom català,Species (English)
-NEOGNATHAE,,,,,,
-I,GALLIFORMES,,,,,,
-,1,Phasianidae,,,,,,Pheasants & Allies
-,,,1,Tetrastes,bonasia,,Grevol,Hazel Grouse
-,,,2,Tetrao,urogallus,,Gall fer,Western Capercaillie
-,,,3,Lagopus,muta,,Perdiu blanca,Rock Ptarmigan
-,,,4,Alectoris,rufa,,Perdiu roja,Red-legged Partridge
-,,,5,Perdix,perdix,,Perdiu xerra,Grey Partridge
-,,,6,Coturnix,coturnix,,Guatlla,Common Quail
-,,,7,Phasianus,colchicus,,Faisà,Common Pheasant
-,,,,,,,,
-II,ANSERIFORMES,,,,,,
-,2,Anatidae,,,,,,"Ducks, Geese, Swans"
-,,,8,Branta,bernicla,bernicla,Oca de collar,Brant Goose
-,,,9,Branta,canadensis,,Oca del Canadà,Canada Goose
-,,,10,Branta,leucopsis,,Oca de galta blanca,Barnacle Goose
-,,,11,Anser,indicus,,Oca índia,Bar-headed Goose
-,,,12,Anser,anser,anser,Oca vulgar,Greylag Goose
-,,,13,Anser,fabalis,fabalis,Oca pradenca,Taiga Bean Goose
-,,,14,Anser,brachyrhynchus,,Oca de bec curt,Pink-footed Goose
-,,,15,Anser,albifrons,,Oca riallera grossa,Greater White-fronted Goose
-,,,16,Cygnus,atratus,,Cigne negre,Black Swan
-,,,17,Cygnus,olor,,Cigne mut,Mute Swan
-,,,18,Cygnus,columbianus,bewickii,Cigne petit,Tundra Swan
-,,,19,Cygnus,cygnus,,Cigne cantaire,Whooper Swan
-,,,20,Alopochen,aegyptiaca,,Oca egípcia,Egyptian Goose
-,,,21,Tadorna,tadorna,,Ànec blanc,Common Shelduck
-,,,22,Tadorna,ferruginea,,Ànec canyella,Ruddy Shelduck
-,,,23,Aix,galericulata,,Ànec mandarí,Mandarin Duck
-,,,24,Spatula,querquedula,,Xarrasclet,Garganey
-,,,25,Spatula,discors,,Xarxet alablau,Blue-winged Teal
-,,,26,Spatula,clypeata,,Ànec cullerot,Northern Shoveler
-,,,27,Mareca,strepera,,Ànec griset,Gadwall
-,,,28,Mareca,falcata,,Xarxet falcat,Falcated Duck
-,,,29,Mareca,penelope,,Ànec xiulador,Eurasian Wigeon
-,,,30,Anas,platyrhynchos,,Ànec collverd,Mallard
-,,,31,Anas,rubripes,,Ànec negrós,American Black Duck
-,,,32,Anas,acuta,,Ànec cuallarg,Northern Pintail
-,,,33,Anas,crecca,,Xarxet comú,Eurasian Teal
-,,,34,Anas,carolinensis,,Xarxet americà,Green-winged Teal
-,,,35,Marmaronetta,angustirostris,,Xarxet marbrenc,Marbled Duck
-,,,36,Netta,rufina,,Xibec,Red-crested Pochard
-,,,37,Aythya,ferina,,Morell de cap roig,Common Pochard
-,,,38,Aythya,nyroca,,Morell xocolater,Ferruginous Duck
-,,,39,Aythya,collaris,,Morell de collar,Ring-necked Duck
-,,,40,Aythya,fuligula,,Morell de plomall,Tufted Duck
-,,,41,Aythya,marila,,Morell buixot,Greater Scaup
-,,,42,Aythya,affinis,,Morell petit,Lesser Scaup
-,,,43,Somateria,spectabilis,,Èider reial,King Eider
-,,,44,Somateria,mollissima,,Èider,Common Eider
-,,,45,Melanitta,fusca,,Ànec fosc,Velvet Scoter
-,,,46,Melanitta,nigra,,Ànec negre,Common Scoter
-,,,47,Clangula,hyemalis,,Ànec glacial,Long-tailed Duck
-,,,48,Bucephala,clangula,,Morell d’ulls grocs,Common Goldeneye
-,,,49,Mergellus,albellus,,Bec de serra petit,Smew
-,,,50,Mergus,merganser,,Bec de serra gros,Common Merganser
-,,,51,Mergus,serrator,,Bec de serra mitjà,Red-breasted Merganser
-,,,52,Oxyura,jamaicensis,,Ànec de Jamaica,Ruddy Duck
-,,,53,Oxyura,leucocephala,,Ànec capblanc,White-headed Duck
-,,,,,,,,
-NEOAVES,,,,,,,
-III,CAPRIMULGIFORMES,,,,,,
-,3,Caprimulgidae,,,,,,Nightjars
-,,,54,Caprimulgus,ruficollis,,Siboc,Red-necked Nightjar
-,,,55,Caprimulgus,europaeus,,Enganyapastors,European Nightjar
-,,,,,,,,
-IV,APODIFORMES,,,,,,
-,4,Apodidae,,,,,,Swifts
-,,,56,Tachymarptis,melba,,Ballester,Alpine Swift
-,,,57,Apus,apus,,Falciot negre,Common Swift
-,,,58,Apus,pallidus,,Falciot pàl·lid,Pallid Swift
-,,,59,Apus,affinis,,Falciot cuablanc petit,Little Swift
-,,,,,,,,
-V,OTIDIFORMES,,,,,,
-,5,Otididae,,,,,,Bustards
-,,,60,Otis,tarda,,Pioc salvatge,Great Bustard
-,,,61,Tetrax,tetrax,,Sisó,Little Bustard
-,,,,,,,,
-VI,CUCULIFORMES,,,,,,
-,6,Cuculidae,,,,,,Cuckoos
-,,,62,Clamator,glandarius,,Cucut reial,Great Spotted Cuckoo
-,,,63,Cuculus,canorus,,Cucut,Common Cuckoo
-,,,,,,,,
-VII,PTEROCLIFORMES,,,,,,
-,7,Pteroclidae,,,,,,Sandgrouse
-,,,64,Pterocles,alchata,,Ganga,Pin-tailed Sandgrouse
-,,,65,Pterocles,orientalis,,Xurra,Black-bellied Sandgrouse
-,,,,,,,,
-VIII,COLUMBIFORMES,,,,,,
-,8,Columbidae,,,,,,"Pigeons, Doves"
-,,,66,Columba,livia,,Colom roquer,Rock Dove
-,,,67,Columba,oenas,,Xixella,Stock Dove
-,,,68,Columba,palumbus,,Tudó,Common Wood Pigeon
-,,,69,Streptopelia,turtur,,Tórtora,European Turtle Dove
-,,,70,Streptopelia,decaocto,,Tórtora turca,Eurasian Collared Dove
-,,,71,Spilopelia,senegalensis,,Tórtora del Senegal,Laughing Dove
-,,,,,,,,
-IX,GRUIFORMES,,,,,,
-,9,Rallidae,,,,,,"Rails, Crakes & Coots"
-,,,72,Rallus,aquaticus,,Rascló,Water Rail
-,,,73,Crex,crex,,Guatlla maresa,Corn Crake
-,,,74,Porzana,parva,,Rascletó,Little Crake
-,,,75,Porzana,pusilla,,Rasclet,Baillon’s Crake
-,,,76,Porzana,porzana,,Polla pintada,Spotted Crake
-,,,77,Porphyrio,porphyrio,,Polla blava,Western Swamphen
-,,,78,Porphyrio,alleni,,Polla blava d’Allen,Allen’s Gallinule
-,,,79,Gallinula,chloropus,,Polla d’aigua,Common Moorhen
-,,,80,Paragallinula,angulata,,Polla menuda,Lesser Moorhen
-,,,81,Fulica,cristata,,Fotja banyuda,Red-knobbed Coot
-,,,82,Fulica,atra,,Fotja comuna,Eurasian Coot
-,,,,,,,,
-,10,Gruidae,,,,,,Cranes
-,,,83,Grus,grus,,Grua,Common Crane
-,,,,,,,,
-X,PODICIPEDIFORMES,,,,,,
-,11,Podicipedidae,,,,,,Grebes
-,,,84,Tachybaptus,ruficollis,,Cabusset,Little Grebe
-,,,85,Podiceps,grisegena,,Cabussó gris,Red-necked Grebe
-,,,86,Podiceps,cristatus,,Cabussó emplomallat,Great Crested Grebe
-,,,87,Podiceps,auritus,,Cabussó orellut,Horned Grebe
-,,,88,Podiceps,nigricollis,,Cabussó collnegre,Black-necked Grebe
-,,,,,,,,
-XI,PHOENICOPTERIFORMES,,,,,
-,12,Phoenicopteridae,,,,,Flamingos
-,,,89,Phoenicopterus,roseus,,Flamenc rosat,Greater Flamingo
-,,,90,Phoeniconaias,minor,,Flamenc menut,Lesser Flamingo
-,,,,,,,,
-XII,CHARADRIIFORMES,,,,,,
-,13,Burhinidae,,,,,,"Stone-curlews, Thick-knees"
-,,,91,Burhinus,oedicnemus,,Torlit,Eurasian Stone-curlew
-,,,,,,,,
-,14,Haematopodidae,,,,,,Oystercatchers
-,,,92,Haematopus,ostralegus,,Garsa de mar,Eurasian Oystercatcher
-,,,,,,,,
-,15,Recurvirostridae,,,,,,"Stilts, Avocets"
-,,,93,Himantopus,himantopus,,Cames llargues,Black-winged Stilt
-,,,94,Recurvirostra,avosetta,,Bec d’alena,Pied Avocet
-,,,,,,,,
-,16,Charadriidae,,,,,,Plovers
-,,,95,Vanellus,vanellus,,Fredeluga,Northern Lapwing
-,,,96,Vanellus,gregarius,,Fredeluga gregària,Sociable Lapwing
-,,,97,Pluvialis,apricaria,,Daurada grossa,European Golden Plover
-,,,98,Pluvialis,fulva,,Daurada petita del Pacífic,Pacific Golden Plover
-,,,99,Pluvialis,dominica,,Daurada petita americana,American Golden Plover
-,,,100,Pluvialis,squatarola,,Pigre gris,Grey Plover
-,,,101,Charadrius,hiaticula,,Corriol gros,Common Ringed Plover
-,,,102,Charadrius,dubius,,Corriol petit,Little Ringed Plover
-,,,103,Charadrius,alexandrinus,,Corriol camanegre,Kentish Plover
-,,,104,Charadrius,leschenaultii,,Corriol de Leschenault,Greater Sand Plover
-,,,105,Charadrius,morinellus,,Corriol pit-roig,Eurasian Dotterel
-,,,,,,,,
-,17,Scolopacidae,,,,,,"Sandpipers, Snipes"
-,,,106,Numenius,phaeopus,,Pòlit cantaire,Eurasian Whimbrel
-,,,107,Numenius,arquata,,Becut,Eurasian Curlew
-,,,108,Limosa,lapponica,,Tètol cuabarrat,Bar-tailed Godwit
-,,,109,Limosa,limosa,,Tètol cuanegre,Black-tailed Godwit
-,,,110,Arenaria,interpres,,Remena-rocs,Ruddy Turnstone
-,,,111,Calidris,canutus,,Territ gros,Red Knot
-,,,112,Calidris,pugnax,,Batallaire,Ruff
-,,,113,Calidris,falcinellus,,Territ becadell,Broad-billed Sandpiper
-,,,114,Calidris,himantopus,,Territ camallarg,Stilt Sandpiper
-,,,115,Calidris,ferruginea,,Territ becllarg,Curlew Sandpiper
-,,,116,Calidris,temminckii,,Territ de Temminck,Temminck’s Stint
-,,,117,Calidris,alba,,Territ tresdits,Sanderling
-,,,118,Calidris,alpina,,Territ variant,Dunlin
-,,,119,Calidris,maritima,,Territ fosc,Purple Sandpiper
-,,,120,Calidris,bairdii,,Territ de Baird,Baird’s Sandpiper
-,,,121,Calidris,minuta,,Territ menut,Little Stint
-,,,122,Calidris,minutilla,,Territ menut canadenc,Least Sandpiper
-,,,123,Calidris,fuscicollis,,Territ cuablanc,White-rumped Sandpiper
-,,,124,Calidris,subruficollis,,Territ rogenc,Buff-breasted Sandpiper
-,,,125,Calidris,melanotos,,Territ pectoral,Pectoral Sandpiper
-,,,126,Calidris,pusilla,,Territ semipalmat,Semipalmated Sandpiper
-,,,127,Limnodromus,scolopaceus,,Tetolet becllarg,Long-billed Dowitcher
-,,,128,Scolopax,rusticola,,Becada,Eurasian Woodcock
-,,,129,Lymnocryptes,minimus,,Becadell sord,Jack Snipe
-,,,130,Gallinago,media,,Becadell gros,Great Snipe
-,,,131,Gallinago,gallinago,,Becadell comú,Common Snipe
-,,,132,Xenus,cinereus,,Siseta cendrosa,Terek Sandpiper
-,,,133,Phalaropus,tricolor,,Escuraflascons de Wilson,Wilson’s Phalarope
-,,,134,Phalaropus,lobatus,,Escuraflascons becfí,Red-necked Phalarope
-,,,135,Phalaropus,fulicarius,,Escuraflascons becgròs,Red Phalarope
-,,,136,Actitis,hypoleucos,,Xivitona,Common Sandpiper
-,,,137,Actitis,macularius,,Xivitona maculada,Spotted Sandpiper
-,,,138,Tringa,ochropus,,Xivita,Green Sandpiper
-,,,139,Tringa,flavipes,,Gamba groga petita,Lesser Yellowlegs
-,,,140,Tringa,totanus,,Gamba roja vulgar,Common Redshank
-,,,141,Tringa,stagnatilis,,Siseta,Marsh Sandpiper
-,,,142,Tringa,glareola,,Valona,Wood Sandpiper
-,,,143,Tringa,erythropus,,Gamba roja pintada,Spotted Redshank
-,,,144,Tringa,nebularia,,Gamba verda,Common Greenshank
-,,,,,,,,
-,18,Glareolidae,,,,,,"Coursers, Pratincoles"
-,,,145,Cursorius,cursor,,Corredor,Cream-colored Courser
-,,,146,Glareola,pratincola,,Perdiu de mar,Collared Pratincole
-,,,,,,,,
-,19,Laridae,,,,,,"Gulls, Terns, Skimmers"
-,,,147,Rissa,tridactyla,,Gavineta de tres dits,Black-legged Kittiwake
-,,,148,Xema,sabini,,Gavineta cuaforcada,Sabine’s Gull
-,,,149,Chroicocephalus,genei,,Gavina capblanca,Slender-billed Gull
-,,,150,Chroicocephalus,philadelphia,,Gavina de Bonaparte,Bonaparte’s Gull
-,,,151,Chroicocephalus,ridibundus,,Gavina vulgar,Black-headed Gull
-,,,152,Hydrocoloeus,minutus,,Gavina menuda,Little Gull
-,,,153,Leucophaeus,atricilla,,Gavina capnegra americana,Laughing Gull
-,,,154,Leucophaeus,pipixcan,,Gavina de Franklin,Franklin’s Gull
-,,,155,Ichthyaetus,audouinii,,Gavina corsa,Audouin’s Gull
-,,,156,Ichthyaetus,melanocephalus,,Gavina capnegra,Mediterranean Gull
-,,,157,Larus,canus,,Gavina cendrosa,Mew Gull
-,,,158,Larus,delawarensis,,Gavina de Delaware,Ring-billed Gull
-,,,159,Larus,marinus,,Gavinot,Great Black-backed Gull
-,,,160,Larus,glaucoides,glaucoides,Gavinot polar,Iceland Gull
-,,,161,Larus,argentatus,,Gavià argentat de potes roses,European Herring Gull
-,,,162,Larus,cachinnans,,Gavià caspi,Caspian Gull
-,,,163,Larus,michahellis,,Gavià argentat,Yellow-legged Gull
-,,,164,Larus,fuscus,,Gavià fosc,Lesser Black-backed Gull
-,,,,,,graelsii,,
-,,,,,,intermedius,,
-,,,165,Gelochelidon,nilotica,,Curroc,Gull-billed Tern
-,,,166,Hydroprogne,caspia,,Xatrac gros,Caspian Tern
-,,,167,Thalasseus,maximus,,Xatrac reial,Royal Tern
-,,,168,Thalasseus,bengalensis,,Xatrac bengalí,Lesser Crested Tern
-,,,169,Thalasseus,sandvicensis,,Xatrac becllarg,Sandwich Tern
-,,,170,Thalasseus,elegans,,Xatrac elegant,Elegant Tern
-,,,171,Sternula,albifrons,,Xatrac menut,Little Tern
-,,,172,Onychoprion,anaethetus,,Xatrac embridat,Bridled Tern
-,,,173,Onychoprion,fuscatus,,Xatrac fosc,Sooty Tern
-,,,174,Sterna,dougallii,,Xatrac rosat,Roseate Tern
-,,,175,Sterna,hirundo,,Xatrac comú,Common Tern
-,,,176,Chlidonias,hybrida,,Fumarell carablanc,Whiskered Tern
-,,,177,Chlidonias,leucopterus,,Fumarell alablanc,White-winged Tern
-,,,178,Chlidonias,niger,,Fumarell negre,Black Tern
-,,,,,,,,
-,20,Stercorariidae,,,,,,Skuas
-,,,179,Stercorarius,skua,,Paràsit gros,Great Skua
-,,,180,Stercorarius,pomarinus,,Paràsit cuaample,Pomarine Jaeger
-,,,181,Stercorarius,parasiticus,,Paràsit cuapunxegut,Parasitic Jaeger
-,,,182,Stercorarius,longicaudus,,Paràsit cuallarg,Long-tailed Jaeger
-,,,,,,,,
-,21,Alcidae,,,,,,Auks
-,,,183,Alle,alle,,Gavotí,Little Auk
-,,,184,Uria,aalge,,Somorgollaire,Common Murre
-,,,185,Alca,torda,,Gavot,Razorbill
-,,,186,Fratercula,arctica,,Fraret,Atlantic Puffin
-,,,,,,,,
-XIII,GAVIIFORMES,,,,,,
-,22,Gaviidae,,,,,,Loons
-,,,187,Gavia,stellata,,Calàbria petita,Red-throated Loon
-,,,188,Gavia,arctica,,Calàbria agulla,Black-throated Loon
-,,,189,Gavia,immer,,Calàbria grossa,Common Loon
-,,,,,,,,
-XIV,PROCELLARIIFORMES,,,,,,
-,23,Hydrobatidae,,,,,,Northern Storm Petrels
-,,,190,Hydrobates,pelagicus,melitensis,Ocell de tempesta,Mediterranean Storm Petrel
-,,,191,Oceanodroma,leucorhoa,,Petrell cuaforcat,Leach’s Storm Petrel
-,,,,,,,,
-,24,Procellariidae,,,,,,"Petrels, Shearwaters, Diving Petrels"
-,,,192,Calonectris,diomedea,,Baldriga cendrosa mediterrània,Scopoli’s Shearwater
-,,,193,Calonectris,borealis,,Baldriga cendrosa atlàntica,Cory’s Shearwater
-,,,194,Ardenna,grisea,,Baldriga grisa,Sooty Shearwater
-,,,195,Ardenna,gravis,,Baldriga capnegra,Great Shearwater
-,,,196,Puffinus,yelkouan,,Baldriga mediterrània,Yelkouan Shearwater
-,,,197,Puffinus,mauretanicus,,Baldriga balear,Balearic Shearwater
-,,,,,,,,
-XV,CICONIIFORMES,,,,,,
-,25,Ciconiidae,,,,,,Storks
-,,,198,Ciconia,nigra,,Cigonya negra,Black Stork
-,,,199,Ciconia,ciconia,,Cigonya blanca,White Stork
-,,,,,,,,
-XVI,SULIFORMES,,,,,,
-,26,Sulidae,,,,,,"Gannets, Boobies"
-,,,200,Morus,bassanus,,Mascarell atlàntic,Northern Gannet
-,,,201,Sula,sula,,Mascarell cama-roig,Red-footed Booby
-,,,,,,,,
-,27,Phalacrocoracidae,,,,,,"Cormorants, Shags"
-,,,202,Microcarbo,pygmaeus,,Corbmarí pigmeu,Pygmy Cormorant
-,,,203,Phalacrocorax,aristotelis,desmarestii,Corbmarí emplomallat,Mediterranean Shag
-,,,204,Phalacrocorax,carbo,sinensis,Corbmarí gros,Great Cormorant
-XVII,PELECANIFORMES,,,,,,
-,28,Threskiornithidae,,,,,,"Ibises, Spoonbills"
-,,,205,Threskiornis,aethiopicus,,Ibis sagrat,African Sacred Ibis
-,,,206,Plegadis,falcinellus,,Capó reial,Glossy Ibis
-,,,207,Platalea,leucorodia,,Becplaner,Eurasian Spoonbill
-,,,,,,,,
-,29,Ardeidae,,,,,,"Herons, Bitterns"
-,,,208,Botaurus,stellaris,,Bitó comú,Eurasian Bittern
-,,,209,Botaurus,lentiginosus,,Bitó americà,American Bittern
-,,,210,Ixobrychus,minutus,,Martinet menut,Little Bittern
-,,,211,Nycticorax,nycticorax,,Martinet de nit,Black-crowned Night Heron
-,,,212,Ardeola,ralloides,,Martinet ros,Squacco Heron
-,,,213,Bubulcus,ibis,,Esplugabous,Western Cattle Egret
-,,,214,Ardea,cinerea,,Bernat pescaire,Grey Heron
-,,,215,Ardea,purpurea,,Agró roig,Purple Heron
-,,,216,Ardea,alba,,Agró blanc,Great Egret
-,,,217,Egretta,garzetta,,Martinet blanc,Little Egret
-,,,218,Egretta,gularis,gularis,Martinet dels esculls,Western Reef Heron
-,,,,,,,,
-,30,Pelecanidae,,,,,,Pelicans
-,,,219,Pelecanus,onocrotalus,,Pelicà vulgar,Great White Pelican
-,,,220,Pelecanus,rufescens,,Pelicà rosat,Pink-backed Pelican
-XVIII,ACCIPITRIFORMES,,,,,,
-,31,Pandionidae,,,,,,Ospreys
-,,,221,Pandion,haliaetus,,Àguila pescadora,Western Osprey
-,,,,,,,,
-,32,Accipitridae,,,,,,"Kites, Hawks, Eagles"
-,,,222,Elanus,caeruleus,,Esparver d’espatlles negres,Black-winged Kite
-,,,223,Gypaetus,barbatus,,Trencalòs,Bearded Vulture
-,,,224,Neophron,percnopterus,,Aufrany,Egyptian Vulture
-,,,225,Pernis,apivorus,,Aligot vesper,European Honey Buzzard
-,,,226,Gyps,rueppelli,,Voltor de Rüppell,Rüppell’s Vulture
-,,,227,Gyps,fulvus,,Voltor comú,Griffon Vulture
-,,,228,Aegypius,monachus,,Voltor negre,Cinereous Vulture
-,,,229,Circaetus,gallicus,,Àguila marcenca,Short-toed Snake Eagle
-,,,230,Clanga,pomarina,,Àguila pomerània,Lesser Spotted Eagle
-,,,231,Clanga,clanga,,Àguila cridanera,Greater Spotted Eagle
-,,,232,Hieraaetus,pennatus,,Àguila calçada,Booted Eagle
-,,,233,Aquila,adalberti,,Àguila imperial ibèrica,Spanish Imperial Eagle
-,,,234,Aquila,heliaca,,Àguila imperial oriental,Eastern Imperial Eagle
-,,,235,Aquila,chrysaetos,,Àguila daurada,Golden Eagle
-,,,236,Aquila,fasciata,,Àguila cuabarrada,Bonelli’s Eagle
-,,,237,Accipiter,nisus,,Esparver vulgar,Eurasian Sparrowhawk
-,,,238,Accipiter,gentilis,,Astor,Northern Goshawk
-,,,239,Circus,aeruginosus,,Arpella vulgar,Western Marsh Harrier
-,,,240,Circus,cyaneus,,Arpella pàl·lida,Hen Harrier
-,,,241,Circus,macrourus,,Arpella pàl·lida russa,Pallid Harrier
-,,,242,Circus,pygargus,,Arpella cendrosa,Montagu’s Harrier
-,,,243,Milvus,milvus,,Milà reial,Red Kite
-,,,244,Milvus,migrans,,Milà negre,Black Kite
-,,,245,Haliaeetus,albicilla,,Àguila marina,White-tailed Eagle
-,,,246,Buteo,lagopus,,Aligot calçat,Rough-legged Buzzard
-,,,247,Buteo,rufinus,,Aligot rogenc,Long-legged Buzzard
-,,,248,Buteo,buteo,,Aligot comú,Common Buzzard
-,,,,,,,,
-XIX,STRIGIFORMES,,,,,,
-,33,Tytonidae,,,,,,Barn Owls
-,,,249,Tyto,alba,,Òliba,Western Barn Owl
-,,,,,,,,
-,34,Strigidae,,,,,,Owls
-,,,250,Otus,scops,,Xot,Eurasian Scops Owl
-,,,251,Bubo,bubo,,Duc,Eurasian Eagle-Owl
-,,,252,Strix,aluco,,Gamarús,Tawny Owl
-,,,253,Athene,noctua,,Mussol comú,Little Owl
-,,,254,Aegolius,funereus,,Mussol pirinenc,Boreal Owl
-,,,255,Asio,otus,,Mussol banyut,Long-eared Owl
-,,,256,Asio,flammeus,,Mussol emigrant,Short-eared Owl
-,,,,,,,,
-XX,BUCEROTIFORMES,,,,,,
-,35,Upupidae,,,,,,Hoopoes
-,,,257,Upupa,epops,,Puput,Eurasian Hoopoe
-,,,,,,,,
-XXI,CORACIIFORMES,,,,,,
-,36,Coraciidae,,,,,,Rollers
-,,,258,Coracias,garrulus,,Gaig blau,European Roller
-,,,,,,,,
-,37,Alcedinidae,,,,,,Kingfishers
-,,,259,Alcedo,atthis,,Blauet,Common Kingfisher
-,,,,,,,,
-,38,Meropidae,,,,,,Bee-eaters
-,,,260,Merops,persicus,,Abellerol gola-roig,Blue-cheeked Bee-eater
-,,,261,Merops,apiaster,,Abellerol,European Bee-eater
-,,,,,,,,
-XXII,PICIFORMES,,,,,,
-,39,Picidae,,,,,,Woodpeckers
-,,,262,Jynx,torquilla,,Colltort,Eurasian Wryneck
-,,,263,Dendrocoptes,medius,,Picot garser mitjà,Middle Spotted Woodpecker
-,,,264,Dryobates,minor,,Picot garser petit,Lesser Spotted Woodpecker
-,,,265,Dendrocopos,major,,Picot garser gros,Great Spotted Woodpecker
-,,,266,Dryocopus,martius,,Picot negre,Black Woodpecker
-,,,267,Picus,sharpei,,Picot verd ibèric,Iberian Green Woodpecker
-,,,,,,,,
-XXIII,FALCONIFORMES,,,,,,
-,40,Falconidae,,,,,,Falcons
-,,,268,Falco,naumanni,,Xoriguer petit,Lesser Kestrel
-,,,269,Falco,tinnunculus,,Xoriguer comú,Common Kestrel
-,,,270,Falco,vespertinus,,Falcó cama-roig,Red-footed Falcon
-,,,271,Falco,eleonorae,,Falcó de la reina,Eleonora’s Falcon
-,,,272,Falco,columbarius,,Esmerla,Merlin
-,,,273,Falco,subbuteo,,Falcó mostatxut,Eurasian Hobby
-,,,274,Falco,biarmicus,,Falcó llaner,Lanner Falcon
-,,,275,Falco,cherrug,,Falcó sagrat,Saker Falcon
-,,,276,Falco,peregrinus,peregrinus,Falcó pelegrí,Peregrine Falcon
-,,,,,,calidus,,
-,,,,,,brookei,,
-,,,,,,,,
-XXIV,PSITTACIFORMES,,,,,,
-,41,Psittacidae,,,,,,African & New World Parrots
-,,,277,Myiopsitta,monachus,,Cotorreta de pit gris,Monk Parakeet
-,,,278,Thectocercus,acuticaudatus,,Aratinga capblava,Blue-crowned Parakeet
-,,,279,Psittacara,erythrogenys,,Aratinga de màscara roja,Red-masked Parakeet
-,,,,,,,,
-,42,Psittaculidae,,,,,,Old World Parrots
-,,,280,Psittacula,krameri,,Cotorra de Kramer,Rose-ringed Parakeet
-,,,,,,,,
-XXV,PASSERIFORMES,,,,,,
-,43,Laniidae,,,,,,Shrikes
-,,,281,Lanius,cristatus,,Capsigrany bru,Brown Shrike
-,,,282,Lanius,collurio,,Escorxador,Red-backed Shrike
-,,,283,Lanius,isabellinus,,Capsigrany pàl·lid,Isabelline Shrike
-,,,284,Lanius,minor,,Trenca,Lesser Grey Shrike
-,,,285,Lanius,excubitor,pallidirostris,Botxí d’estepa,Steppe Grey Shrike
-,,,286,Lanius,meridionalis,,Botxí meridional,Iberian Grey Shrike
-,,,287,Lanius,senator,,,Woodchat Shrike
-,,,,,,senator,Capsigrany,
-,,,,,,badius,Capsigrany balear,
-,,,,,,,,
-,44,Vireonidae,,,,,,Vireos
-,,,288,Vireo,olivaceus,,Viri d’ull vermell,Red-eyed Vireo
-,,,,,,,,
-,45,Oriolidae,,,,,,Orioles
-,,,289,Oriolus,oriolus,,Oriol,Eurasian Golden Oriole
-,,,,,,,,
-,46,Corvidae,,,,,,"Crows, Jays"
-,,,290,Garrulus,glandarius,,Gaig,Eurasian Jay
-,,,291,Pica,pica,,Garsa,Eurasian Magpie
-,,,292,Nucifraga,caryocatactes,,Trencanous,Nutcracker
-,,,293,Pyrrhocorax,pyrrhocorax,,Gralla de bec vermell,Red-billed Chough
-,,,294,Pyrrhocorax,graculus,,Gralla de bec groc,Alpine Chough
-,,,295,Coloeus,monedula,,Gralla,Western Jackdaw
-,,,296,Corvus,frugilegus,,Graula,Rook
-,,,297,Corvus,corone,,Cornella negra,Carrion Crow
-,,,298,Corvus,cornix,,Cornella emmantellada,Hooded Crow
-,,,299,Corvus,ruficollis,,Corb del desert,Brown-necked Raven
-,,,300,Corvus,corax,,Corb,Northern Raven
-,,,,,,,,
-,47,Bombycillidae,,,,,,Waxwings
-,,,301,Bombycilla,garrulus,,Ocell sedós,Bohemian Waxwing
-,,,,,,,,
-,48,Paridae,,,,,,Tits
-,,,302,Periparus,ater,,Mallerenga petita,Coal Tit
-,,,303,Lophophanes,cristatus,,Mallerenga emplomallada,European Crested Tit
-,,,304,Poecile,palustris,,Mallerenga d’aigua,Marsh Tit
-,,,305,Cyanistes,teneriffae,ultramarinus,Mallerenga blava africana,African Blue Tit
-,,,306,Cyanistes,caeruleus,,Mallerenga blava,Eurasian Blue Tit
-,,,307,Parus,major,,Mallerenga carbonera,Great Tit
-,,,,,,,,
-,49,Remizidae,,,,,,Penduline Tits
-,,,308,Remiz,pendulinus,,Teixidor,Eurasian Penduline Tit
-,,,,,,,,
-,50,Panuridae,,,,,,Bearded Reedling
-,,,309,Panurus,biarmicus,,Mallerenga de bigotis,Bearded Reedling
-,,,,,,,,
-,51,Alaudidae,,,,,,Larks
-,,,310,Ammomanes,cinctura,,Terrerola cuabarrada,Bar-tailed Lark
-,,,311,Lullula,arborea,,Cotoliu,Woodlark
-,,,312,Alauda,arvensis,,Alosa vulgar,Eurasian Skylark
-,,,313,Galerida,theklae,,Cogullada fosca,Thekla’s Lark
-,,,314,Galerida,cristata,,Cogullada vulgar,Crested Lark
-,,,315,Eremophila,alpestris,,Alosa banyuda,Horned Lark
-,,,316,Calandrella,brachydactyla,,Terrerola vulgar,Greater Short-toed Lark
-,,,317,Melanocorypha,calandra,,Calàndria,Calandra Lark
-,,,318,Chersophilus,duponti,,Alosa becuda,Dupont’s Lark
-,,,319,Alaudala,rufescens,,Terrerola rogenca,Lesser Short-toed Lark
-,,,,,,,,
-,52,Hirundinidae,,,,,,"Swallows, Martins"
-,,,320,Riparia,riparia,,Oreneta de ribera,Sand Martin
-,,,321,Hirundo,rustica,,Oreneta vulgar,Barn Swallow
-,,,322,Ptyonoprogne,rupestris,,Roquerol,Eurasian Crag Martin
-,,,323,Delichon,urbicum,,Oreneta cuablanca,Common House Martin
-,,,324,Cecropis,daurica,,Oreneta cua-rogenca,Red-rumped Swallow
-,,,,,,,,
-,53,Cettiidae,,,,,,Cettia Bush Warblers & Allies
-,,,325,Cettia,cetti,,Rossinyol bord,Cetti’s Warbler
-,,,,,,,,
-,54,Aegithalidae,,,,,,Bushtits
-,,,326,Aegithalos,caudatus,,Mallerenga cuallarga,Long-tailed Tit
-,,,,,,,,
-,55,Phylloscopidae,,,,,,Leaf Warblers & Allies
-,,,327,Phylloscopus,sibilatrix,,Mosquiter xiulaire,Wood Warbler
-,,,328,Phylloscopus,bonelli,,Mosquiter pàl·lid,Western Bonelli’s Warbler
-,,,329,Phylloscopus,humei,,Mosquiter de Hume,Hume’s Leaf Warbler
-,,,330,Phylloscopus,inornatus,,Mosquiter de doble ratlla,Yellow-browed Warbler
-,,,331,Phylloscopus,proregulus,,Mosquiter reietó,Pallas’s Leaf Warbler
-,,,332,Phylloscopus,fuscatus,,Mosquiter fosc,Dusky Warbler
-,,,333,Phylloscopus,trochilus,,Mosquiter de passa,Willow Warbler
-,,,334,Phylloscopus,collybita,,Mosquiter comú,Common Chiffchaff
-,,,,,,abietinus,,
-,,,,,,collybita,,
-,,,,,,tristis,,
-,,,335,Phylloscopus,ibericus,,Mosquiter ibèric,Iberian Chiffchaff
-,,,336,Phylloscopus,trochiloides,,Mosquiter verdós,Greenish Warbler
-,,,337,Phylloscopus,borealis,,Mosquiter boreal,Arctic Warbler
-,,,,,,,,
-,56,Acrocephalidae,,,,,,Reed Warblers & Allies
-,,,338,Acrocephalus,arundinaceus,,Balquer,Great Reed Warbler
-,,,339,Acrocephalus,melanopogon,,Boscarla mostatxuda,Moustached Warbler
-,,,340,Acrocephalus,paludicola,,Boscarla d’aigua,Aquatic Warbler
-,,,341,Acrocephalus,schoenobaenus,,Boscarla dels joncs,Sedge Warbler
-,,,342,Acrocephalus,agricola,,Boscarla dels arrossars,Paddyfield Warbler
-,,,343,Acrocephalus,dumetorum,,Boscarla dels matolls,Blyth’s Reed Warbler
-,,,344,Acrocephalus,scirpaceus,,Boscarla de canyar,Eurasian Reed Warbler
-,,,345,Acrocephalus,palustris,,Boscarla menjamosquits,Marsh Warbler
-,,,346,Iduna,opaca,,Bosqueta pàl·lida occidental,Western Olivaceous Warbler
-,,,347,Hippolais,polyglotta,,Bosqueta vulgar,Melodious Warbler
-,,,348,Hippolais,icterina,,Bosqueta icterina,Icterine Warbler
-,,,,,,,,
-,57,Locustellidae,,,,,,Grassbirds & Allies
-,,,349,Locustella,naevia,,Boscaler pintat gros,Common Grasshopper Warbler
-,,,350,Locustella,luscinioides,,Boscaler comú,Savi’s Warbler
-,,,,,,,,
-,58,Cisticolidae,,,,,,Cisticolas & Allies
-,,,351,Cisticola,juncidis,,Trist,Zitting Cisticola
-,,,,,,,,
-,59,Leiothrichidae,,,,,,Laughingthrushes & Allies
-,,,352,Leiothrix,lutea,,Rossinyol del Japó,Red-billed Leiothrix
-,,,,,,,,
-,60,Sylviidae,,,,,,Sylviid Babblers
-,,,353,Sylvia,atricapilla,,Tallarol de casquet,Eurasian Blackcap
-,,,354,Sylvia,borin,,Tallarol gros,Garden Warbler
-,,,355,Sylvia,nisoria,,Tallarol esparverenc,Barred Warbler
-,,,356,Sylvia,curruca,,Tallarol xerraire,Lesser Whitethroat
-,,,,,,curruca,,
-,,,,,,blythi/halimodendri,,
-,,,,,,,,
-,,,357,Sylvia,hortensis,,Tallarol emmascarat,Western Orphean Warbler
-,,,358,Sylvia,communis,,Tallareta vulgar,Common Whitethroat
-,,,359,Sylvia,undata,,Tallareta cuallarga,Dartford Warbler
-,,,360,Sylvia,sarda,,Tallareta sarda,Marmora’s Warbler
-,,,361,Sylvia,conspicillata,,Tallarol trencamates,Spectacled Warbler
-,,,362,Sylvia,cantillans,,Tallarol de garriga,Subalpine Warbler
-,,,,,,cantillans,,
-,,,,,,albistriata,,
-,,,,,,iberiae,,
-,,,363,Sylvia,subalpina,,Tallarol de Moltoni,Moltoni’s Warbler
-,,,364,Sylvia,melanocephala,,Tallarol capnegre,Sardinian Warbler
-,,,,,,,,
-,61,Regulidae,,,,,,"Goldcrests, Kinglets"
-,,,365,Regulus,ignicapilla,,Bruel,Common Firecrest
-,,,366,Regulus,regulus,,Reietó,Goldcrest
-,,,,,,,,
-,62,Troglodytidae,,,,,,Wrens
-,,,367,Troglodytes,troglodytes,,Cargolet,Eurasian Wren
-,,,,,,,,
-,63,Sittidae,,,,,,Nuthatches
-,,,368,Sitta,europaea,,Pica-soques blau,Eurasian Nuthatch
-,,,,,,,,
-,64,Tichodromidae,,,,,,Wallcreeper
-,,,369,Tichodroma,muraria,,Pela-roques,Wallcreeper
-,,,,,,,,
-,65,Certhiidae,,,,,,Treecreepers
-,,,370,Certhia,familiaris,,Raspinell pirinenc,Eurasian Treecreeper
-,,,371,Certhia,brachydactyla,,Raspinell comú,Short-toed Treecreeper
-,,,,,,,,
-,66,Sturnidae,,,,,,Starlings
-,,,372,Pastor,roseus,,Estornell rosat,Rosy Starling
-,,,373,Sturnus,vulgaris,,Estornell vulgar,Common Starling
-,,,374,Sturnus,unicolor,,Estornell negre,Spotless Starling
-,,,,,,,,
-,67,Turdidae,,,,,,Thrushes
-,,,375,Turdus,torquatus,,Merla de pit blanc,Ring Ouzel
-,,,,,,torquatus,,
-,,,,,,alpestris,,
-,,,376,Turdus,merula,,Merla,Common Blackbird
-,,,377,Turdus,naumanni,,Tord de Naumann,Naumann’s Thrush
-,,,378,Turdus,pilaris,,Griva cerdana,Fieldfare
-,,,379,Turdus,iliacus,,Tord ala-roig,Redwing
-,,,380,Turdus,philomelos,,Tord comú,Song Thrush
-,,,381,Turdus,viscivorus,,Griva,Mistle Thrush
-,,,,,,,,
-,68,Muscicapidae,,,,,,"Chats, Old World Flycatchers"
-,,,382,Cercotrichas,galactotes,,Cuaenlairat,Rufous-tailed Scrub Robin
-,,,383,Muscicapa,striata,,Papamosques gris,Spotted Flycatcher
-,,,384,Muscicapa,tyrrhenica,balearica,Papamosques gris balear,Mediterranean Flycatcher
-,,,385,Erithacus,rubecula,,Pit-roig,European Robin
-,,,386,Larvivora,cyane,,Rossinyol blau siberià,Siberian Blue Robin
-,,,387,Luscinia,svecica,,Cotxa blava,Bluethroat
-,,,,,,svecica,,
-,,,,,,namnetum,,
-,,,,,,cyanecula,,
-,,,388,Luscinia,megarhynchos,,Rossinyol,Common Nightingale
-,,,389,Tarsiger,cyanurus,,Cotxa cuablava,Red-flanked Bluetail
-,,,390,Ficedula,hypoleuca,,Mastegatatxes,European Pied Flycatcher
-,,,391,Ficedula,albicollis,,Papamosques de collar,Collared Flycatcher
-,,,392,Ficedula,parva,,Papamosques menut,Red-breasted Flycatcher
-,,,393,Phoenicurus,ochruros,,Cotxa fumada,Black Redstart
-,,,394,Phoenicurus,phoenicurus,,Cotxa cua-roja,Common Redstart
-,,,395,Phoenicurus,moussieri,,Cotxa diademada,Moussier’s Redstart
-,,,396,Monticola,saxatilis,,Merla roquera,Common Rock Thrush
-,,,397,Monticola,solitarius,,Merla blava,Blue Rock Thrush
-,,,398,Saxicola,rubetra,,Bitxac rogenc,Whinchat
-,,,399,Saxicola,rubicola,,Bitxac comú,European Stonechat
-,,,400,Saxicola,maurus,,Bitxac comú siberià,Siberian Stonechat
-,,,,,,hemprichii,,
-,,,,,,maurus,,
-,,,401,Oenanthe,oenanthe,,Còlit gris,Northern Wheatear
-,,,402,Oenanthe,deserti,,Còlit del desert,Desert Wheatear
-,,,403,Oenanthe,hispanica,,Còlit ros,Western Black-eared Wheatear
-,,,404,Oenanthe,leucura,,Còlit negre,Black Wheatear
-,,,,,,,,
-,69,Cinclidae,,,,,,Dippers
-,,,405,Cinclus,cinclus,,Merla d’aigua,White-throated Dipper
-,,,,,,,,
-,70,Passeridae,,,,,,"Old World Sparrows, Snowfinches"
-,,,406,Passer,domesticus,,Pardal comú,House Sparrow
-,,,407,Passer,hispaniolensis,,Pardal de passa,Spanish Sparrow
-,,,408,Passer,montanus,,Pardal xarrec,Eurasian Tree Sparrow
-,,,409,Petronia,petronia,,Pardal roquer,Rock Sparrow
-,,,410,Montifringilla,nivalis,,Pardal d’ala blanca,White-winged Snowfinch
-,,,,,,,,
-,71,Estrildidae,,,,,,"Waxbills, Munias & Allies"
-,,,411,Estrilda,melpoda,,Bec de corall de galtes taronja,Orange-cheeked Waxbill
-,,,412,Estrilda,astrild,,Bec de corall senegalès,Common Waxbill
-,,,413,Amandava,amandava,,Múnia roig,Red Avadavat
-,,,,,,,,
-,72,Prunellidae,,,,,,Accentors
-,,,414,Prunella,collaris,,Cercavores,Alpine Accentor
-,,,415,Prunella,modularis,,Pardal de bardissa,Dunnock
-,,,,,,,,
-,73,Motacillidae,,,,,,"Wagtails, Pipits"
-,,,416,Motacilla,flava,,Cuereta groga,Western Yellow Wagtail
-,,,,,,flavissima,,
-,,,,,,flava,,
-,,,,,,iberiae,,
-,,,,,,cinereocapilla,,
-,,,,,,feldegg,,
-,,,,,,thunbergi,,
-,,,417,Motacilla,citreola,,Cuereta citrina,Citrine Wagtail
-,,,418,Motacilla,cinerea,,Cuereta torrentera,Grey Wagtail
-,,,419,Motacilla,alba,,Cuereta blanca,White Wagtail
-,,,,,,yarrellii,Cuereta blanca endolada,
-,,,,,,alba,Cuereta blanca vulgar,
-,,,420,Anthus,richardi,,Piula grossa,Richard’s Pipit
-,,,421,Anthus,campestris,,Trobat,Tawny Pipit
-,,,422,Anthus,pratensis,,Titella,Meadow Pipit
-,,,423,Anthus,trivialis,,Piula dels arbres,Tree Pipit
-,,,424,Anthus,hodgsoni,,Piula de Hodgson,Olive-backed Pipit
-,,,425,Anthus,cervinus,,Piula gola-roja,Red-throated Pipit
-,,,426,Anthus,spinoletta,,Grasset de muntanya,Water Pipit
-,,,427,Anthus,petrosus,,Grasset de costa,Eurasian Rock Pipit
-,,,,,,,,
-,74,Fringillidae,,,,,,Finches
-,,,428,Fringilla,coelebs,,Pinsà comú,Common Chaffinch
-,,,429,Fringilla,montifringilla,,Pinsà mec,Brambling
-,,,430,Coccothraustes,coccothraustes,,Durbec,Hawfinch
-,,,431,Pyrrhula,pyrrhula,,Pinsà borroner,Eurasian Bullfinch
-,,,432,Bucanetes,githagineus,,Pinsà trompeter,Trumpeter Finch
-,,,433,Carpodacus,erythrinus,,Pinsà carminat,Common Rosefinch
-,,,434,Chloris,chloris,,Verdum,European Greenfinch
-,,,435,Linaria,cannabina,,Passerell comú,Common Linnet
-,,,436,Acanthis,cabaret,,Passerell golanegre,Lesser Redpoll
-,,,437,Loxia,curvirostra,,Trencapinyes,Red Crossbill
-,,,438,Carduelis,carduelis,,Cadernera,European Goldfinch
-,,,439,Carduelis,citrinella,,Llucareta,Citril Finch
-,,,440,Serinus,serinus,,Gafarró,European Serin
-,,,441,Spinus,spinus,,Lluer,Eurasian Siskin
-,,,,,,,,
-,75,Calcariidae,,,,,,"Longspurs, Snow Buntings"
-,,,442,Calcarius,lapponicus,,Repicatalons de Lapònia,Lapland Longspur
-,,,443,Plectrophenax,nivalis,,Sit blanc,Snow Bunting
-,,,,,,,,
-,76,Emberizidae,,,,,,Buntings
-,,,444,Emberiza,calandra,,Cruixidell,Corn Bunting
-,,,445,Emberiza,citrinella,,Verderola,Yellowhammer
-,,,446,Emberiza,leucocephalos,,Sit capblanc,Pine Bunting
-,,,447,Emberiza,cia,,Sit negre,Rock Bunting
-,,,448,Emberiza,hortulana,,Hortolà,Ortolan Bunting
-,,,449,Emberiza,cirlus,,Gratapalles,Cirl Bunting
-,,,450,Emberiza,pusilla,,Repicatalons petit,Little Bunting
-,,,451,Emberiza,rustica,,Repicatalons rústic,Rustic Bunting
-,,,452,Emberiza,melanocephala,,Sit capnegre,Black-headed Bunting
-,,,453,Emberiza,schoeniclus,,Repicatalons,Common Reed Bunting
-,,,,,,schoeniclus,,
-,,,,,,witherbyi,,
+Family (Scientific),Genus,Species (Scientific),Subspecies,Nom català,Species (English)
+1,Tetrastes,bonasia,,Grevol,Hazel Grouse
+2,Tetrao,urogallus,,Gall fer,Western Capercaillie
+3,Lagopus,muta,,Perdiu blanca,Rock Ptarmigan
+4,Alectoris,rufa,,Perdiu roja,Red-legged Partridge
+5,Perdix,perdix,,Perdiu xerra,Grey Partridge
+6,Coturnix,coturnix,,Guatlla,Common Quail
+7,Phasianus,colchicus,,Faisà,Common Pheasant
+8,Branta,bernicla,bernicla,Oca de collar,Brant Goose
+9,Branta,canadensis,,Oca del Canadà,Canada Goose
+10,Branta,leucopsis,,Oca de galta blanca,Barnacle Goose
+11,Anser,indicus,,Oca índia,Bar-headed Goose
+12,Anser,anser,anser,Oca vulgar,Greylag Goose
+13,Anser,fabalis,fabalis,Oca pradenca,Taiga Bean Goose
+14,Anser,brachyrhynchus,,Oca de bec curt,Pink-footed Goose
+15,Anser,albifrons,,Oca riallera grossa,Greater White-fronted Goose
+16,Cygnus,atratus,,Cigne negre,Black Swan
+17,Cygnus,olor,,Cigne mut,Mute Swan
+18,Cygnus,columbianus,bewickii,Cigne petit,Tundra Swan
+19,Cygnus,cygnus,,Cigne cantaire,Whooper Swan
+20,Alopochen,aegyptiaca,,Oca egípcia,Egyptian Goose
+21,Tadorna,tadorna,,Ànec blanc,Common Shelduck
+22,Tadorna,ferruginea,,Ànec canyella,Ruddy Shelduck
+23,Aix,galericulata,,Ànec mandarí,Mandarin Duck
+24,Spatula,querquedula,,Xarrasclet,Garganey
+25,Spatula,discors,,Xarxet alablau,Blue-winged Teal
+26,Spatula,clypeata,,Ànec cullerot,Northern Shoveler
+27,Mareca,strepera,,Ànec griset,Gadwall
+28,Mareca,falcata,,Xarxet falcat,Falcated Duck
+29,Mareca,penelope,,Ànec xiulador,Eurasian Wigeon
+30,Anas,platyrhynchos,,Ànec collverd,Mallard
+31,Anas,rubripes,,Ànec negrós,American Black Duck
+32,Anas,acuta,,Ànec cuallarg,Northern Pintail
+33,Anas,crecca,,Xarxet comú,Eurasian Teal
+34,Anas,carolinensis,,Xarxet americà,Green-winged Teal
+35,Marmaronetta,angustirostris,,Xarxet marbrenc,Marbled Duck
+36,Netta,rufina,,Xibec,Red-crested Pochard
+37,Aythya,ferina,,Morell de cap roig,Common Pochard
+38,Aythya,nyroca,,Morell xocolater,Ferruginous Duck
+39,Aythya,collaris,,Morell de collar,Ring-necked Duck
+40,Aythya,fuligula,,Morell de plomall,Tufted Duck
+41,Aythya,marila,,Morell buixot,Greater Scaup
+42,Aythya,affinis,,Morell petit,Lesser Scaup
+43,Somateria,spectabilis,,Èider reial,King Eider
+44,Somateria,mollissima,,Èider,Common Eider
+45,Melanitta,fusca,,Ànec fosc,Velvet Scoter
+46,Melanitta,nigra,,Ànec negre,Common Scoter
+47,Clangula,hyemalis,,Ànec glacial,Long-tailed Duck
+48,Bucephala,clangula,,Morell d’ulls grocs,Common Goldeneye
+49,Mergellus,albellus,,Bec de serra petit,Smew
+50,Mergus,merganser,,Bec de serra gros,Common Merganser
+51,Mergus,serrator,,Bec de serra mitjà,Red-breasted Merganser
+52,Oxyura,jamaicensis,,Ànec de Jamaica,Ruddy Duck
+53,Oxyura,leucocephala,,Ànec capblanc,White-headed Duck
+54,Caprimulgus,ruficollis,,Siboc,Red-necked Nightjar
+55,Caprimulgus,europaeus,,Enganyapastors,European Nightjar
+56,Tachymarptis,melba,,Ballester,Alpine Swift
+57,Apus,apus,,Falciot negre,Common Swift
+58,Apus,pallidus,,Falciot pàl·lid,Pallid Swift
+59,Apus,affinis,,Falciot cuablanc petit,Little Swift
+60,Otis,tarda,,Pioc salvatge,Great Bustard
+61,Tetrax,tetrax,,Sisó,Little Bustard
+62,Clamator,glandarius,,Cucut reial,Great Spotted Cuckoo
+63,Cuculus,canorus,,Cucut,Common Cuckoo
+64,Pterocles,alchata,,Ganga,Pin-tailed Sandgrouse
+65,Pterocles,orientalis,,Xurra,Black-bellied Sandgrouse
+66,Columba,livia,,Colom roquer,Rock Dove
+67,Columba,oenas,,Xixella,Stock Dove
+68,Columba,palumbus,,Tudó,Common Wood Pigeon
+69,Streptopelia,turtur,,Tórtora,European Turtle Dove
+70,Streptopelia,decaocto,,Tórtora turca,Eurasian Collared Dove
+71,Spilopelia,senegalensis,,Tórtora del Senegal,Laughing Dove
+72,Rallus,aquaticus,,Rascló,Water Rail
+73,Crex,crex,,Guatlla maresa,Corn Crake
+74,Porzana,parva,,Rascletó,Little Crake
+75,Porzana,pusilla,,Rasclet,Baillon’s Crake
+76,Porzana,porzana,,Polla pintada,Spotted Crake
+77,Porphyrio,porphyrio,,Polla blava,Western Swamphen
+78,Porphyrio,alleni,,Polla blava d’Allen,Allen’s Gallinule
+79,Gallinula,chloropus,,Polla d’aigua,Common Moorhen
+80,Paragallinula,angulata,,Polla menuda,Lesser Moorhen
+81,Fulica,cristata,,Fotja banyuda,Red-knobbed Coot
+82,Fulica,atra,,Fotja comuna,Eurasian Coot
+83,Grus,grus,,Grua,Common Crane
+84,Tachybaptus,ruficollis,,Cabusset,Little Grebe
+85,Podiceps,grisegena,,Cabussó gris,Red-necked Grebe
+86,Podiceps,cristatus,,Cabussó emplomallat,Great Crested Grebe
+87,Podiceps,auritus,,Cabussó orellut,Horned Grebe
+88,Podiceps,nigricollis,,Cabussó collnegre,Black-necked Grebe
+89,Phoenicopterus,roseus,,Flamenc rosat,Greater Flamingo
+90,Phoeniconaias,minor,,Flamenc menut,Lesser Flamingo
+91,Burhinus,oedicnemus,,Torlit,Eurasian Stone-curlew
+92,Haematopus,ostralegus,,Garsa de mar,Eurasian Oystercatcher
+93,Himantopus,himantopus,,Cames llargues,Black-winged Stilt
+94,Recurvirostra,avosetta,,Bec d’alena,Pied Avocet
+95,Vanellus,vanellus,,Fredeluga,Northern Lapwing
+96,Vanellus,gregarius,,Fredeluga gregària,Sociable Lapwing
+97,Pluvialis,apricaria,,Daurada grossa,European Golden Plover
+98,Pluvialis,fulva,,Daurada petita del Pacífic,Pacific Golden Plover
+99,Pluvialis,dominica,,Daurada petita americana,American Golden Plover
+100,Pluvialis,squatarola,,Pigre gris,Grey Plover
+101,Charadrius,hiaticula,,Corriol gros,Common Ringed Plover
+102,Charadrius,dubius,,Corriol petit,Little Ringed Plover
+103,Charadrius,alexandrinus,,Corriol camanegre,Kentish Plover
+104,Charadrius,leschenaultii,,Corriol de Leschenault,Greater Sand Plover
+105,Charadrius,morinellus,,Corriol pit-roig,Eurasian Dotterel
+106,Numenius,phaeopus,,Pòlit cantaire,Eurasian Whimbrel
+107,Numenius,arquata,,Becut,Eurasian Curlew
+108,Limosa,lapponica,,Tètol cuabarrat,Bar-tailed Godwit
+109,Limosa,limosa,,Tètol cuanegre,Black-tailed Godwit
+110,Arenaria,interpres,,Remena-rocs,Ruddy Turnstone
+111,Calidris,canutus,,Territ gros,Red Knot
+112,Calidris,pugnax,,Batallaire,Ruff
+113,Calidris,falcinellus,,Territ becadell,Broad-billed Sandpiper
+114,Calidris,himantopus,,Territ camallarg,Stilt Sandpiper
+115,Calidris,ferruginea,,Territ becllarg,Curlew Sandpiper
+116,Calidris,temminckii,,Territ de Temminck,Temminck’s Stint
+117,Calidris,alba,,Territ tresdits,Sanderling
+118,Calidris,alpina,,Territ variant,Dunlin
+119,Calidris,maritima,,Territ fosc,Purple Sandpiper
+120,Calidris,bairdii,,Territ de Baird,Baird’s Sandpiper
+121,Calidris,minuta,,Territ menut,Little Stint
+122,Calidris,minutilla,,Territ menut canadenc,Least Sandpiper
+123,Calidris,fuscicollis,,Territ cuablanc,White-rumped Sandpiper
+124,Calidris,subruficollis,,Territ rogenc,Buff-breasted Sandpiper
+125,Calidris,melanotos,,Territ pectoral,Pectoral Sandpiper
+126,Calidris,pusilla,,Territ semipalmat,Semipalmated Sandpiper
+127,Limnodromus,scolopaceus,,Tetolet becllarg,Long-billed Dowitcher
+128,Scolopax,rusticola,,Becada,Eurasian Woodcock
+129,Lymnocryptes,minimus,,Becadell sord,Jack Snipe
+130,Gallinago,media,,Becadell gros,Great Snipe
+131,Gallinago,gallinago,,Becadell comú,Common Snipe
+132,Xenus,cinereus,,Siseta cendrosa,Terek Sandpiper
+133,Phalaropus,tricolor,,Escuraflascons de Wilson,Wilson’s Phalarope
+134,Phalaropus,lobatus,,Escuraflascons becfí,Red-necked Phalarope
+135,Phalaropus,fulicarius,,Escuraflascons becgròs,Red Phalarope
+136,Actitis,hypoleucos,,Xivitona,Common Sandpiper
+137,Actitis,macularius,,Xivitona maculada,Spotted Sandpiper
+138,Tringa,ochropus,,Xivita,Green Sandpiper
+139,Tringa,flavipes,,Gamba groga petita,Lesser Yellowlegs
+140,Tringa,totanus,,Gamba roja vulgar,Common Redshank
+141,Tringa,stagnatilis,,Siseta,Marsh Sandpiper
+142,Tringa,glareola,,Valona,Wood Sandpiper
+143,Tringa,erythropus,,Gamba roja pintada,Spotted Redshank
+144,Tringa,nebularia,,Gamba verda,Common Greenshank
+145,Cursorius,cursor,,Corredor,Cream-colored Courser
+146,Glareola,pratincola,,Perdiu de mar,Collared Pratincole
+147,Rissa,tridactyla,,Gavineta de tres dits,Black-legged Kittiwake
+148,Xema,sabini,,Gavineta cuaforcada,Sabine’s Gull
+149,Chroicocephalus,genei,,Gavina capblanca,Slender-billed Gull
+150,Chroicocephalus,philadelphia,,Gavina de Bonaparte,Bonaparte’s Gull
+151,Chroicocephalus,ridibundus,,Gavina vulgar,Black-headed Gull
+152,Hydrocoloeus,minutus,,Gavina menuda,Little Gull
+153,Leucophaeus,atricilla,,Gavina capnegra americana,Laughing Gull
+154,Leucophaeus,pipixcan,,Gavina de Franklin,Franklin’s Gull
+155,Ichthyaetus,audouinii,,Gavina corsa,Audouin’s Gull
+156,Ichthyaetus,melanocephalus,,Gavina capnegra,Mediterranean Gull
+157,Larus,canus,,Gavina cendrosa,Mew Gull
+158,Larus,delawarensis,,Gavina de Delaware,Ring-billed Gull
+159,Larus,marinus,,Gavinot,Great Black-backed Gull
+160,Larus,glaucoides,glaucoides,Gavinot polar,Iceland Gull
+161,Larus,argentatus,,Gavià argentat de potes roses,European Herring Gull
+162,Larus,cachinnans,,Gavià caspi,Caspian Gull
+163,Larus,michahellis,,Gavià argentat,Yellow-legged Gull
+164,Larus,fuscus,,Gavià fosc,Lesser Black-backed Gull
+165,Gelochelidon,nilotica,,Curroc,Gull-billed Tern
+166,Hydroprogne,caspia,,Xatrac gros,Caspian Tern
+167,Thalasseus,maximus,,Xatrac reial,Royal Tern
+168,Thalasseus,bengalensis,,Xatrac bengalí,Lesser Crested Tern
+169,Thalasseus,sandvicensis,,Xatrac becllarg,Sandwich Tern
+170,Thalasseus,elegans,,Xatrac elegant,Elegant Tern
+171,Sternula,albifrons,,Xatrac menut,Little Tern
+172,Onychoprion,anaethetus,,Xatrac embridat,Bridled Tern
+173,Onychoprion,fuscatus,,Xatrac fosc,Sooty Tern
+174,Sterna,dougallii,,Xatrac rosat,Roseate Tern
+175,Sterna,hirundo,,Xatrac comú,Common Tern
+176,Chlidonias,hybrida,,Fumarell carablanc,Whiskered Tern
+177,Chlidonias,leucopterus,,Fumarell alablanc,White-winged Tern
+178,Chlidonias,niger,,Fumarell negre,Black Tern
+179,Stercorarius,skua,,Paràsit gros,Great Skua
+180,Stercorarius,pomarinus,,Paràsit cuaample,Pomarine Jaeger
+181,Stercorarius,parasiticus,,Paràsit cuapunxegut,Parasitic Jaeger
+182,Stercorarius,longicaudus,,Paràsit cuallarg,Long-tailed Jaeger
+183,Alle,alle,,Gavotí,Little Auk
+184,Uria,aalge,,Somorgollaire,Common Murre
+185,Alca,torda,,Gavot,Razorbill
+186,Fratercula,arctica,,Fraret,Atlantic Puffin
+187,Gavia,stellata,,Calàbria petita,Red-throated Loon
+188,Gavia,arctica,,Calàbria agulla,Black-throated Loon
+189,Gavia,immer,,Calàbria grossa,Common Loon
+190,Hydrobates,pelagicus,melitensis,Ocell de tempesta,Mediterranean Storm Petrel
+191,Oceanodroma,leucorhoa,,Petrell cuaforcat,Leach’s Storm Petrel
+192,Calonectris,diomedea,,Baldriga cendrosa mediterrània,Scopoli’s Shearwater
+193,Calonectris,borealis,,Baldriga cendrosa atlàntica,Cory’s Shearwater
+194,Ardenna,grisea,,Baldriga grisa,Sooty Shearwater
+195,Ardenna,gravis,,Baldriga capnegra,Great Shearwater
+196,Puffinus,yelkouan,,Baldriga mediterrània,Yelkouan Shearwater
+197,Puffinus,mauretanicus,,Baldriga balear,Balearic Shearwater
+198,Ciconia,nigra,,Cigonya negra,Black Stork
+199,Ciconia,ciconia,,Cigonya blanca,White Stork
+200,Morus,bassanus,,Mascarell atlàntic,Northern Gannet
+201,Sula,sula,,Mascarell cama-roig,Red-footed Booby
+202,Microcarbo,pygmaeus,,Corbmarí pigmeu,Pygmy Cormorant
+203,Phalacrocorax,aristotelis,desmarestii,Corbmarí emplomallat,Mediterranean Shag
+204,Phalacrocorax,carbo,sinensis,Corbmarí gros,Great Cormorant
+205,Threskiornis,aethiopicus,,Ibis sagrat,African Sacred Ibis
+206,Plegadis,falcinellus,,Capó reial,Glossy Ibis
+207,Platalea,leucorodia,,Becplaner,Eurasian Spoonbill
+208,Botaurus,stellaris,,Bitó comú,Eurasian Bittern
+209,Botaurus,lentiginosus,,Bitó americà,American Bittern
+210,Ixobrychus,minutus,,Martinet menut,Little Bittern
+211,Nycticorax,nycticorax,,Martinet de nit,Black-crowned Night Heron
+212,Ardeola,ralloides,,Martinet ros,Squacco Heron
+213,Bubulcus,ibis,,Esplugabous,Western Cattle Egret
+214,Ardea,cinerea,,Bernat pescaire,Grey Heron
+215,Ardea,purpurea,,Agró roig,Purple Heron
+216,Ardea,alba,,Agró blanc,Great Egret
+217,Egretta,garzetta,,Martinet blanc,Little Egret
+218,Egretta,gularis,gularis,Martinet dels esculls,Western Reef Heron
+219,Pelecanus,onocrotalus,,Pelicà vulgar,Great White Pelican
+220,Pelecanus,rufescens,,Pelicà rosat,Pink-backed Pelican
+221,Pandion,haliaetus,,Àguila pescadora,Western Osprey
+222,Elanus,caeruleus,,Esparver d’espatlles negres,Black-winged Kite
+223,Gypaetus,barbatus,,Trencalòs,Bearded Vulture
+224,Neophron,percnopterus,,Aufrany,Egyptian Vulture
+225,Pernis,apivorus,,Aligot vesper,European Honey Buzzard
+226,Gyps,rueppelli,,Voltor de Rüppell,Rüppell’s Vulture
+227,Gyps,fulvus,,Voltor comú,Griffon Vulture
+228,Aegypius,monachus,,Voltor negre,Cinereous Vulture
+229,Circaetus,gallicus,,Àguila marcenca,Short-toed Snake Eagle
+230,Clanga,pomarina,,Àguila pomerània,Lesser Spotted Eagle
+231,Clanga,clanga,,Àguila cridanera,Greater Spotted Eagle
+232,Hieraaetus,pennatus,,Àguila calçada,Booted Eagle
+233,Aquila,adalberti,,Àguila imperial ibèrica,Spanish Imperial Eagle
+234,Aquila,heliaca,,Àguila imperial oriental,Eastern Imperial Eagle
+235,Aquila,chrysaetos,,Àguila daurada,Golden Eagle
+236,Aquila,fasciata,,Àguila cuabarrada,Bonelli’s Eagle
+237,Accipiter,nisus,,Esparver vulgar,Eurasian Sparrowhawk
+238,Accipiter,gentilis,,Astor,Northern Goshawk
+239,Circus,aeruginosus,,Arpella vulgar,Western Marsh Harrier
+240,Circus,cyaneus,,Arpella pàl·lida,Hen Harrier
+241,Circus,macrourus,,Arpella pàl·lida russa,Pallid Harrier
+242,Circus,pygargus,,Arpella cendrosa,Montagu’s Harrier
+243,Milvus,milvus,,Milà reial,Red Kite
+244,Milvus,migrans,,Milà negre,Black Kite
+245,Haliaeetus,albicilla,,Àguila marina,White-tailed Eagle
+246,Buteo,lagopus,,Aligot calçat,Rough-legged Buzzard
+247,Buteo,rufinus,,Aligot rogenc,Long-legged Buzzard
+248,Buteo,buteo,,Aligot comú,Common Buzzard
+249,Tyto,alba,,Òliba,Western Barn Owl
+250,Otus,scops,,Xot,Eurasian Scops Owl
+251,Bubo,bubo,,Duc,Eurasian Eagle-Owl
+252,Strix,aluco,,Gamarús,Tawny Owl
+253,Athene,noctua,,Mussol comú,Little Owl
+254,Aegolius,funereus,,Mussol pirinenc,Boreal Owl
+255,Asio,otus,,Mussol banyut,Long-eared Owl
+256,Asio,flammeus,,Mussol emigrant,Short-eared Owl
+257,Upupa,epops,,Puput,Eurasian Hoopoe
+258,Coracias,garrulus,,Gaig blau,European Roller
+259,Alcedo,atthis,,Blauet,Common Kingfisher
+260,Merops,persicus,,Abellerol gola-roig,Blue-cheeked Bee-eater
+261,Merops,apiaster,,Abellerol,European Bee-eater
+262,Jynx,torquilla,,Colltort,Eurasian Wryneck
+263,Dendrocoptes,medius,,Picot garser mitjà,Middle Spotted Woodpecker
+264,Dryobates,minor,,Picot garser petit,Lesser Spotted Woodpecker
+265,Dendrocopos,major,,Picot garser gros,Great Spotted Woodpecker
+266,Dryocopus,martius,,Picot negre,Black Woodpecker
+267,Picus,sharpei,,Picot verd ibèric,Iberian Green Woodpecker
+268,Falco,naumanni,,Xoriguer petit,Lesser Kestrel
+269,Falco,tinnunculus,,Xoriguer comú,Common Kestrel
+270,Falco,vespertinus,,Falcó cama-roig,Red-footed Falcon
+271,Falco,eleonorae,,Falcó de la reina,Eleonora’s Falcon
+272,Falco,columbarius,,Esmerla,Merlin
+273,Falco,subbuteo,,Falcó mostatxut,Eurasian Hobby
+274,Falco,biarmicus,,Falcó llaner,Lanner Falcon
+275,Falco,cherrug,,Falcó sagrat,Saker Falcon
+276,Falco,peregrinus,peregrinus,Falcó pelegrí,Peregrine Falcon
+277,Myiopsitta,monachus,,Cotorreta de pit gris,Monk Parakeet
+278,Thectocercus,acuticaudatus,,Aratinga capblava,Blue-crowned Parakeet
+279,Psittacara,erythrogenys,,Aratinga de màscara roja,Red-masked Parakeet
+280,Psittacula,krameri,,Cotorra de Kramer,Rose-ringed Parakeet
+281,Lanius,cristatus,,Capsigrany bru,Brown Shrike
+282,Lanius,collurio,,Escorxador,Red-backed Shrike
+283,Lanius,isabellinus,,Capsigrany pàl·lid,Isabelline Shrike
+284,Lanius,minor,,Trenca,Lesser Grey Shrike
+285,Lanius,excubitor,pallidirostris,Botxí d’estepa,Steppe Grey Shrike
+286,Lanius,meridionalis,,Botxí meridional,Iberian Grey Shrike
+287,Lanius,senator,,Capsigrany,Woodchat Shrike
+288,Vireo,olivaceus,,Viri d’ull vermell,Red-eyed Vireo
+289,Oriolus,oriolus,,Oriol,Eurasian Golden Oriole
+290,Garrulus,glandarius,,Gaig,Eurasian Jay
+291,Pica,pica,,Garsa,Eurasian Magpie
+292,Nucifraga,caryocatactes,,Trencanous,Nutcracker
+293,Pyrrhocorax,pyrrhocorax,,Gralla de bec vermell,Red-billed Chough
+294,Pyrrhocorax,graculus,,Gralla de bec groc,Alpine Chough
+295,Coloeus,monedula,,Gralla,Western Jackdaw
+296,Corvus,frugilegus,,Graula,Rook
+297,Corvus,corone,,Cornella negra,Carrion Crow
+298,Corvus,cornix,,Cornella emmantellada,Hooded Crow
+299,Corvus,ruficollis,,Corb del desert,Brown-necked Raven
+300,Corvus,corax,,Corb,Northern Raven
+301,Bombycilla,garrulus,,Ocell sedós,Bohemian Waxwing
+302,Periparus,ater,,Mallerenga petita,Coal Tit
+303,Lophophanes,cristatus,,Mallerenga emplomallada,European Crested Tit
+304,Poecile,palustris,,Mallerenga d’aigua,Marsh Tit
+305,Cyanistes,teneriffae,ultramarinus,Mallerenga blava africana,African Blue Tit
+306,Cyanistes,caeruleus,,Mallerenga blava,Eurasian Blue Tit
+307,Parus,major,,Mallerenga carbonera,Great Tit
+308,Remiz,pendulinus,,Teixidor,Eurasian Penduline Tit
+309,Panurus,biarmicus,,Mallerenga de bigotis,Bearded Reedling
+310,Ammomanes,cinctura,,Terrerola cuabarrada,Bar-tailed Lark
+311,Lullula,arborea,,Cotoliu,Woodlark
+312,Alauda,arvensis,,Alosa vulgar,Eurasian Skylark
+313,Galerida,theklae,,Cogullada fosca,Thekla’s Lark
+314,Galerida,cristata,,Cogullada vulgar,Crested Lark
+315,Eremophila,alpestris,,Alosa banyuda,Horned Lark
+316,Calandrella,brachydactyla,,Terrerola vulgar,Greater Short-toed Lark
+317,Melanocorypha,calandra,,Calàndria,Calandra Lark
+318,Chersophilus,duponti,,Alosa becuda,Dupont’s Lark
+319,Alaudala,rufescens,,Terrerola rogenca,Lesser Short-toed Lark
+320,Riparia,riparia,,Oreneta de ribera,Sand Martin
+321,Hirundo,rustica,,Oreneta vulgar,Barn Swallow
+322,Ptyonoprogne,rupestris,,Roquerol,Eurasian Crag Martin
+323,Delichon,urbicum,,Oreneta cuablanca,Common House Martin
+324,Cecropis,daurica,,Oreneta cua-rogenca,Red-rumped Swallow
+325,Cettia,cetti,,Rossinyol bord,Cetti’s Warbler
+326,Aegithalos,caudatus,,Mallerenga cuallarga,Long-tailed Tit
+327,Phylloscopus,sibilatrix,,Mosquiter xiulaire,Wood Warbler
+328,Phylloscopus,bonelli,,Mosquiter pàl·lid,Western Bonelli’s Warbler
+329,Phylloscopus,humei,,Mosquiter de Hume,Hume’s Leaf Warbler
+330,Phylloscopus,inornatus,,Mosquiter de doble ratlla,Yellow-browed Warbler
+331,Phylloscopus,proregulus,,Mosquiter reietó,Pallas’s Leaf Warbler
+332,Phylloscopus,fuscatus,,Mosquiter fosc,Dusky Warbler
+333,Phylloscopus,trochilus,,Mosquiter de passa,Willow Warbler
+334,Phylloscopus,collybita,,Mosquiter comú,Common Chiffchaff
+335,Phylloscopus,ibericus,,Mosquiter ibèric,Iberian Chiffchaff
+336,Phylloscopus,trochiloides,,Mosquiter verdós,Greenish Warbler
+337,Phylloscopus,borealis,,Mosquiter boreal,Arctic Warbler
+338,Acrocephalus,arundinaceus,,Balquer,Great Reed Warbler
+339,Acrocephalus,melanopogon,,Boscarla mostatxuda,Moustached Warbler
+340,Acrocephalus,paludicola,,Boscarla d’aigua,Aquatic Warbler
+341,Acrocephalus,schoenobaenus,,Boscarla dels joncs,Sedge Warbler
+342,Acrocephalus,agricola,,Boscarla dels arrossars,Paddyfield Warbler
+343,Acrocephalus,dumetorum,,Boscarla dels matolls,Blyth’s Reed Warbler
+344,Acrocephalus,scirpaceus,,Boscarla de canyar,Eurasian Reed Warbler
+345,Acrocephalus,palustris,,Boscarla menjamosquits,Marsh Warbler
+346,Iduna,opaca,,Bosqueta pàl·lida occidental,Western Olivaceous Warbler
+347,Hippolais,polyglotta,,Bosqueta vulgar,Melodious Warbler
+348,Hippolais,icterina,,Bosqueta icterina,Icterine Warbler
+349,Locustella,naevia,,Boscaler pintat gros,Common Grasshopper Warbler
+350,Locustella,luscinioides,,Boscaler comú,Savi’s Warbler
+351,Cisticola,juncidis,,Trist,Zitting Cisticola
+352,Leiothrix,lutea,,Rossinyol del Japó,Red-billed Leiothrix
+353,Sylvia,atricapilla,,Tallarol de casquet,Eurasian Blackcap
+354,Sylvia,borin,,Tallarol gros,Garden Warbler
+355,Sylvia,nisoria,,Tallarol esparverenc,Barred Warbler
+356,Sylvia,curruca,,Tallarol xerraire,Lesser Whitethroat
+357,Sylvia,hortensis,,Tallarol emmascarat,Western Orphean Warbler
+358,Sylvia,communis,,Tallareta vulgar,Common Whitethroat
+359,Sylvia,undata,,Tallareta cuallarga,Dartford Warbler
+360,Sylvia,sarda,,Tallareta sarda,Marmora’s Warbler
+361,Sylvia,conspicillata,,Tallarol trencamates,Spectacled Warbler
+362,Sylvia,cantillans,,Tallarol de garriga,Subalpine Warbler
+363,Sylvia,subalpina,,Tallarol de Moltoni,Moltoni’s Warbler
+364,Sylvia,melanocephala,,Tallarol capnegre,Sardinian Warbler
+365,Regulus,ignicapilla,,Bruel,Common Firecrest
+366,Regulus,regulus,,Reietó,Goldcrest
+367,Troglodytes,troglodytes,,Cargolet,Eurasian Wren
+368,Sitta,europaea,,Pica-soques blau,Eurasian Nuthatch
+369,Tichodroma,muraria,,Pela-roques,Wallcreeper
+370,Certhia,familiaris,,Raspinell pirinenc,Eurasian Treecreeper
+371,Certhia,brachydactyla,,Raspinell comú,Short-toed Treecreeper
+372,Pastor,roseus,,Estornell rosat,Rosy Starling
+373,Sturnus,vulgaris,,Estornell vulgar,Common Starling
+374,Sturnus,unicolor,,Estornell negre,Spotless Starling
+375,Turdus,torquatus,,Merla de pit blanc,Ring Ouzel
+376,Turdus,merula,,Merla,Common Blackbird
+377,Turdus,naumanni,,Tord de Naumann,Naumann’s Thrush
+378,Turdus,pilaris,,Griva cerdana,Fieldfare
+379,Turdus,iliacus,,Tord ala-roig,Redwing
+380,Turdus,philomelos,,Tord comú,Song Thrush
+381,Turdus,viscivorus,,Griva,Mistle Thrush
+382,Cercotrichas,galactotes,,Cuaenlairat,Rufous-tailed Scrub Robin
+383,Muscicapa,striata,,Papamosques gris,Spotted Flycatcher
+384,Muscicapa,tyrrhenica,balearica,Papamosques gris balear,Mediterranean Flycatcher
+385,Erithacus,rubecula,,Pit-roig,European Robin
+386,Larvivora,cyane,,Rossinyol blau siberià,Siberian Blue Robin
+387,Luscinia,svecica,,Cotxa blava,Bluethroat
+388,Luscinia,megarhynchos,,Rossinyol,Common Nightingale
+389,Tarsiger,cyanurus,,Cotxa cuablava,Red-flanked Bluetail
+390,Ficedula,hypoleuca,,Mastegatatxes,European Pied Flycatcher
+391,Ficedula,albicollis,,Papamosques de collar,Collared Flycatcher
+392,Ficedula,parva,,Papamosques menut,Red-breasted Flycatcher
+393,Phoenicurus,ochruros,,Cotxa fumada,Black Redstart
+394,Phoenicurus,phoenicurus,,Cotxa cua-roja,Common Redstart
+395,Phoenicurus,moussieri,,Cotxa diademada,Moussier’s Redstart
+396,Monticola,saxatilis,,Merla roquera,Common Rock Thrush
+397,Monticola,solitarius,,Merla blava,Blue Rock Thrush
+398,Saxicola,rubetra,,Bitxac rogenc,Whinchat
+399,Saxicola,rubicola,,Bitxac comú,European Stonechat
+400,Saxicola,maurus,,Bitxac comú siberià,Siberian Stonechat
+401,Oenanthe,oenanthe,,Còlit gris,Northern Wheatear
+402,Oenanthe,deserti,,Còlit del desert,Desert Wheatear
+403,Oenanthe,hispanica,,Còlit ros,Western Black-eared Wheatear
+404,Oenanthe,leucura,,Còlit negre,Black Wheatear
+405,Cinclus,cinclus,,Merla d’aigua,White-throated Dipper
+406,Passer,domesticus,,Pardal comú,House Sparrow
+407,Passer,hispaniolensis,,Pardal de passa,Spanish Sparrow
+408,Passer,montanus,,Pardal xarrec,Eurasian Tree Sparrow
+409,Petronia,petronia,,Pardal roquer,Rock Sparrow
+410,Montifringilla,nivalis,,Pardal d’ala blanca,White-winged Snowfinch
+411,Estrilda,melpoda,,Bec de corall de galtes taronja,Orange-cheeked Waxbill
+412,Estrilda,astrild,,Bec de corall senegalès,Common Waxbill
+413,Amandava,amandava,,Múnia roig,Red Avadavat
+414,Prunella,collaris,,Cercavores,Alpine Accentor
+415,Prunella,modularis,,Pardal de bardissa,Dunnock
+416,Motacilla,flava,,Cuereta groga,Western Yellow Wagtail
+417,Motacilla,citreola,,Cuereta citrina,Citrine Wagtail
+418,Motacilla,cinerea,,Cuereta torrentera,Grey Wagtail
+419,Motacilla,alba,,Cuereta blanca,White Wagtail
+420,Anthus,richardi,,Piula grossa,Richard’s Pipit
+421,Anthus,campestris,,Trobat,Tawny Pipit
+422,Anthus,pratensis,,Titella,Meadow Pipit
+423,Anthus,trivialis,,Piula dels arbres,Tree Pipit
+424,Anthus,hodgsoni,,Piula de Hodgson,Olive-backed Pipit
+425,Anthus,cervinus,,Piula gola-roja,Red-throated Pipit
+426,Anthus,spinoletta,,Grasset de muntanya,Water Pipit
+427,Anthus,petrosus,,Grasset de costa,Eurasian Rock Pipit
+428,Fringilla,coelebs,,Pinsà comú,Common Chaffinch
+429,Fringilla,montifringilla,,Pinsà mec,Brambling
+430,Coccothraustes,coccothraustes,,Durbec,Hawfinch
+431,Pyrrhula,pyrrhula,,Pinsà borroner,Eurasian Bullfinch
+432,Bucanetes,githagineus,,Pinsà trompeter,Trumpeter Finch
+433,Carpodacus,erythrinus,,Pinsà carminat,Common Rosefinch
+434,Chloris,chloris,,Verdum,European Greenfinch
+435,Linaria,cannabina,,Passerell comú,Common Linnet
+436,Acanthis,cabaret,,Passerell golanegre,Lesser Redpoll
+437,Loxia,curvirostra,,Trencapinyes,Red Crossbill
+438,Carduelis,carduelis,,Cadernera,European Goldfinch
+439,Carduelis,citrinella,,Llucareta,Citril Finch
+440,Serinus,serinus,,Gafarró,European Serin
+441,Spinus,spinus,,Lluer,Eurasian Siskin
+442,Calcarius,lapponicus,,Repicatalons de Lapònia,Lapland Longspur
+443,Plectrophenax,nivalis,,Sit blanc,Snow Bunting
+444,Emberiza,calandra,,Cruixidell,Corn Bunting
+445,Emberiza,citrinella,,Verderola,Yellowhammer
+446,Emberiza,leucocephalos,,Sit capblanc,Pine Bunting
+447,Emberiza,cia,,Sit negre,Rock Bunting
+448,Emberiza,hortulana,,Hortolà,Ortolan Bunting
+449,Emberiza,cirlus,,Gratapalles,Cirl Bunting
+450,Emberiza,pusilla,,Repicatalons petit,Little Bunting
+451,Emberiza,rustica,,Repicatalons rústic,Rustic Bunting
+452,Emberiza,melanocephala,,Sit capnegre,Black-headed Bunting
+453,Emberiza,schoeniclus,,Repicatalons,Common Reed Bunting
