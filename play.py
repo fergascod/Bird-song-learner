@@ -22,17 +22,22 @@ if __name__=="__main__":
     mode=input("Seleccioni mode de joc: ")
 
     while mode!="stop":
-        if mode.lower() in list(modes.keys()) or mode.lower()=="tots":
-            if mode.lower()=="tots":
-                targetList=list(birdrecordings.keys())
-            else:
-                targetList=modes[mode]
-            rows, columns = os.popen('stty size', 'r').read().split()
-            numQ=int(input("Quantes preguntes vols respondre? "))
-            print("")
+        try:
+            if mode.lower() in list(modes.keys()) or mode.lower()=="tots":
+                if mode.lower()=="tots":
+                    targetList=list(birdrecordings.keys())
+                else:
+                    targetList=modes[mode]
+                rows, columns = os.popen('stty size', 'r').read().split()
+                numQ=int(input("Quantes preguntes vols respondre? "))
+                print("")
 
-            result=test(numQ, targetList, birdrecordings)
-            print("*"*int(columns))
-        else:
-            print("El mode seleccionat no existeix.")
-        mode=input("Seleccioni mode de joc: ")
+                result=test(numQ, targetList, birdrecordings)
+                print("*"*int(columns))
+            else:
+                print("El mode seleccionat no existeix.")
+            mode=input("Seleccioni mode de joc: ")
+        except KeyboardInterrupt:
+            print("\nBorrar audio")
+            sys.exit()
+    print("Borrar audio")
