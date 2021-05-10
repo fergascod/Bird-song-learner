@@ -1,11 +1,11 @@
-import urllib.request
+import urllib3.request
 import json
 import pandas as pd
 import pickle
 import vlc
 import random as rand
 from colorama import Fore, Style
-
+import sys
 def make_url(bird_sp):
     '''Given the scientific name of a bird species this function
        returns the url to retrieve the xeno-canto recordings '''
@@ -86,6 +86,8 @@ def loadRecordings():
 def test(numQuestions, targetList=None, recordings=None, numOptions=4):
     '''This function makes the number of questions specified in
        parameter numQuestions'''
+    if numQuestions <=0:
+        return
     total=0
     for i in range(numQuestions):
         #First we get the correct bird and all possibilites
@@ -106,25 +108,22 @@ def test(numQuestions, targetList=None, recordings=None, numOptions=4):
     return total/numQuestions
 
 def question(url, bird=None, possible=None):
-    try:
-        p = vlc.MediaPlayer(url)
-        scientificToCatalan=catalanNames()
-        if possible is not None:
-            print("Les teves opcions són:")
-            for species in possible:
-                print(" -",scientificToCatalan[species])
-        p.play()
+    p = vlc.MediaPlayer(url)
+    scientificToCatalan=catalanNames()
+    if possible is not None:
+        print("Les teves opcions són:")
+        for species in possible:
+            print(" -",scientificToCatalan[species])
+    p.play()
 
-        res=scientificToCatalan[bird].lower()
-        ans=input("Introdueix el nom de l'espècie: ")
-        if ans.lower() == res:
-            print(f"    {Fore.GREEN}Correcte!{Style.RESET_ALL}", scientificToCatalan[bird])
-            p.set_pause(1)
-            return 1
-        else:
-            print(f"    {Fore.RED}Incorrecte :({Style.RESET_ALL}")
-            print( "    L'au correcta és:",  scientificToCatalan[bird])
-            p.set_pause(1)
-            return 0
-    except:
-        print("Sorry there has been an error with the bird recording")
+    res=scientificToCatalan[bird].lower()
+    ans=input("Introdueix el nom de l'espècie: ")
+    if ans.lower() == res:
+        print(f"    {Fore.GREEN}Correcte!{Style.RESET_ALL}", scientificToCatalan[bird])
+        p.set_pause(1)
+        return 1
+    else:
+        print(f"    {Fore.RED}Incorrecte :({Style.RESET_ALL}")
+        print( "    L'au correcta és:",  scientificToCatalan[bird])
+        p.set_pause(1)
+        return 0
