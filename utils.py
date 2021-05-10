@@ -21,7 +21,11 @@ def get_recordings(url):
 
     with urllib.request.urlopen(url) as response:
         data = json.loads(response.read().decode())
-        return data["recordings"]
+        dataRecordings=data["recordings"]
+        if len(dataRecordings)<=100:
+            return [recording["file"] for recording in dataRecordings]
+        dataRecordingsSampled=dataRecordings[:100]
+        return [recording["file"] for recording in dataRecordingsSampled]
 
 def catalanNames():
     '''Returns a bidirectional dictionary catalan-scientific'''
@@ -82,16 +86,18 @@ def loadRecordings():
 def test(numQuestions, targetList=None, recordings=None, numOptions=4):
     '''This function makes the number of questions specified in
        parameter numQuestions'''
-
     total=0
     for i in range(numQuestions):
         #First we get the correct bird and all possibilites
-        possibilities=rand.sample(targetList, numOptions)
+        if numOptions < len(targetList):
+            possibilities=rand.sample(targetList, numOptions)
+        else:
+            possibilities=targetList
         spLatin=rand.choice(possibilities)
 
         #If we have recordings for that species we make a question
         if len(recordings[spLatin])!=0:
-            url="https:"+rand.choice(recordings[spLatin])["file"]
+            url="https:"+rand.choice(recordings[spLatin])
             total+=question(url, bird=spLatin, possible=possibilities)
             print("")
         else:
