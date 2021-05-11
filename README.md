@@ -13,7 +13,7 @@ To install the required modules use:
 > pip install -r requirements.txt
 > ```
 
-The scripts use the `vlc` library (to reproduce the audio files) which is a VLC binding for Python, meaning *having VLC installed is also a prerequisite*.
+The scripts use the `vlc` library (to reproduce the audio files) which is a VLC binding for Python, meaning **having VLC installed is also a prerequisite**.
 
 Important: in order to execute the game you need Internet connectivity to be enabled.
 
