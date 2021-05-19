@@ -44,6 +44,5 @@ The program will guide you from that point on.
 
 
 TODO:
-- Being able to add custom modes (maybe a custom.py file and saving resulting game modes in a directory in pickle format)
 - Some trouble with VLC if going through questions fast:
   - [00007f361010a6e0] prefetch stream error: reading while paused (buggy demux?)
