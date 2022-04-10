@@ -1,9 +1,7 @@
 # Bird Song Learner
-This project consists in designing an application that allows its users to practice their bird identification skills using the xeno-canto API: https://www.xeno-canto.org/explore/api.
+This project consists in designing an application that allows its users to practice their bird identification skills using the [xeno-canto API](https://www.xeno-canto.org/explore/api).
 
-List of birds from SEO birdlife: https://seo.org/listaavesdeespana/
-
-Catalan bird names from: http://www.rarebirds.cat/catalan-bird-list-ocells-de-catalunya-2020/. Copied the HTML table and converted it to a csv file using https://www.convertcsv.com/html-table-to-csv.htm.
+List of used Spanish birds from SEO birdlife can be found [here](https://seo.org/listaavesdeespana/) and Catalan bird names [here](http://www.rarebirds.cat/catalan-bird-list-ocells-de-catalunya-2020/).
 
 ## REQUIRED MODULES
 
@@ -13,7 +11,7 @@ To install the required modules use:
 > pip install -r requirements.txt
 > ```
 
-The scripts use the `vlc` library (to reproduce the audio files) which is a VLC binding for Python, meaning *having VLC installed is also a prerequisite*.
+The scripts use the `vlc` library (to reproduce the audio files) which is a VLC binding for Python, meaning **having VLC installed is also a prerequisite**. Follow the following [link](https://www.videolan.org/vlc/download-ubuntu.html) to install it 
 
 Important: in order to execute the game you need Internet connectivity to be enabled.
 
@@ -44,6 +42,5 @@ The program will guide you from that point on.
 
 
 TODO:
-- Being able to add custom modes (maybe a custom.py file and saving resulting game modes in a directory in pickle format)
 - Some trouble with VLC if going through questions fast:
   - [00007f361010a6e0] prefetch stream error: reading while paused (buggy demux?)
