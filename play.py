@@ -1,7 +1,7 @@
 from utils import *
 import os
 from modes import modes
-from custom import custom
+#from custom import custom
 
 def welcome():
     print("Benvingut! \
@@ -30,8 +30,8 @@ if __name__=="__main__":
 
                 if mode.lower()=="tots":
                     targetList=list(birdrecordings.keys())
-                elif mode.lower()=="custom":
-                    targetList=custom(list(birdrecordings.keys()), scientificToCatalan)
+                #elif mode.lower()=="custom":
+                #    targetList=custom(list(birdrecordings.keys()), scientificToCatalan)
                 else:
                     targetList=modes[mode]
 

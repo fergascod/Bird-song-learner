@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset="utf-8" />
+  <title>Question {{num}}</title>
+</head>
+<body>
+  <p>{{num}} / {{max_num}}</p>
+  <p>Game mode: {{game_mode}}</p>
+
+<!--   <audio controls>
+    <source src={{url}} type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio> -->
+  {% if correct==response %}
+    <p style="color:green;">Correct!</p>
+    <p>It was a {{correct}}</p>
+  {% else %}
+    <p style="color:red;">Wrong!</p>
+    <p>Your answer was {{response}} but it was: {{correct}}</p>
+  {% endif %}
+
+  <a href="{{ url_for('question', num=num|int+1, max_num=max_num, game_mode=game_mode)}}"><button>Next question</button></a>
+</body>
+</html>

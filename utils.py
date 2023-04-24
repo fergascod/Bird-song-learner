@@ -6,6 +6,7 @@ import vlc
 import random as rand
 from colorama import Fore, Style
 import sys
+
 def make_url(bird_sp):
     '''Given the scientific name of a bird species this function
        returns the url to retrieve the xeno-canto recordings '''

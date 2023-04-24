@@ -1,0 +1,11 @@
+<form action="/start_game" method = "POST">
+    <p>Number of questions <input type = "number" name = "num_questions" min="1" max="20" step="1"/></p>
+    <p>Game mode:
+        <select name = "game_mode">
+            {% for game_mode in game_modes %}
+            <option value={{game_mode}}>{{game_mode}}</option>
+            {% endfor %}
+        </select>  
+    <p>  
+    <input type = "submit" value = "Submit" /></p>
+</form>
