@@ -22,7 +22,10 @@
     <p style="color:red;">Wrong!</p>
     <p>Your answer was {{response}} but it was: {{correct}}</p>
   {% endif %}
-
-  <a href="{{ url_for('question', num=num|int+1, max_num=max_num, game_mode=game_mode)}}"><button>Next question</button></a>
+  {% if num|float < max_num|float %}
+    <a href="{{ url_for('question', num=num|int+1, max_num=max_num, game_mode=game_mode)}}"><button>Next question</button></a>
+  {% else %}
+    <a href="{{ url_for('results')}}"><button>Results</button></a>
+  {% endif %}
 </body>
 </html>
