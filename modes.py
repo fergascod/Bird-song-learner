@@ -1,4 +1,3 @@
-
 principiant=[
 "anas platyrhynchos",
 "buteo buteo",
@@ -62,11 +61,24 @@ alaudids=[
  'chersophilus duponti',
  'alaudala rufescens']
 
+aristofanes=[
+ 'upupa epops',
+ 'luscinia megarhynchos',
+ 'phoenicopterus roseus',
+ 'erithacus rubecula',
+ 'corvus corax',
+ 'passer domesticus',
+ 'tyto alba',
+ 'columba livia',
+ 'corvus corone'
+]
+
 modes={
+"Aristòfanes": aristofanes,
 "principiants":principiant,
 "silvids":silvids,
 "fringilids":fringilids,
 "emberizids":emberizids,
 "mosquiters":mosquiters,
-"alaudids":alaudids
+"alaudids":alaudids,
 }

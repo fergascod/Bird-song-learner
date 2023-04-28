@@ -2,7 +2,6 @@ import urllib3.request
 import json
 import pandas as pd
 import pickle
-import vlc
 import random as rand
 from colorama import Fore, Style
 import sys
