@@ -104,5 +104,5 @@ modes={
 "emberizids":emberizids,
 "mosquiters":mosquiters,
 "alaudids":alaudids,
-"Ocells-comuns-(Cat)":comuns_cat
+"OcellsComunsCat":comuns_cat
 }
