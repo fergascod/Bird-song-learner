@@ -13,6 +13,29 @@ principiant=[
 "parus major",
 "cuculus canorus"
 ]
+
+comuns_cat = [
+    "aegithalos caudatus",
+    "cyanistes caeruleus",
+    "parus major",
+    "lophophanes cristatus",
+    "erithacus rubecula",
+    "serinus serinus",
+    "chloris chloris",
+    "sylvia melanocephala",
+    "phoenicurus ochruros",
+    "turdus merula",
+    "merops apiaster",
+    "passer domesticus",
+    "picus sharpei",
+    "phylloscopus collybita",
+    "garrulus glandarius",
+    "sitta europaea",
+    "carduelis carduelis",
+    "luscinia megarhynchos",
+    "motacilla alba"
+]
+
 silvids=[
  'sylvia atricapilla',
  'sylvia borin',
@@ -81,4 +104,5 @@ modes={
 "emberizids":emberizids,
 "mosquiters":mosquiters,
 "alaudids":alaudids,
+"Ocells comuns (Cat)":comuns_cat
 }
