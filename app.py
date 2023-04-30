@@ -92,6 +92,19 @@ def start_game():
 def menu():
     return flask.render_template('menu.html')
 
+
+@APP.route('/new_mode', methods = ['POST', 'GET'])
+def new_mode():
+    if request.method == 'GET':
+        scientificToCatalan=catalanNames()
+        return flask.render_template('new_mode.html', 
+                                    names=scientificToCatalan)
+    if request.method == 'POST':
+        modeName = request.form["modeName"]
+        multiselect = request.form.getlist('mymultiselect')
+        modes[modeName]=multiselect
+        return "Created new game mode (stored until the end of your session)"
+
 if __name__ == '__main__':
     APP.debug=True
     APP.run()
