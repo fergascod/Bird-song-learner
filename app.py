@@ -62,6 +62,20 @@ def form():
     print(scientificToCatalan.values(), flush=True)
     return flask.render_template('form.html', game_modes=modes.keys(), species=scientificToCatalan.values())
 
+@APP.route('/listen_menu', methods = ['POST', 'GET'])
+def listen_menu():
+    if request.method == 'GET':
+        scientificToCatalan=catalanNames()
+        print("hello", flush=True)
+        return flask.render_template('listen_menu.html', game_modes=modes.keys(), species=scientificToCatalan.values())
+    if request.method == 'POST':
+        print
+        form_data = request.form
+        game_mode=form_data["game_mode"]
+        print(game_mode, flush=True)
+        return redirect(url_for("listen", game_mode=game_mode))
+
+
 @APP.route('/listen/<game_mode>')
 def listen(game_mode):
     targetList=modes[game_mode]
