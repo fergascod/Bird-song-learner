@@ -29,7 +29,6 @@ comuns_cat = [
     "passer domesticus",
     "picus sharpei",
     "phylloscopus collybita",
-    "garrulus glandarius",
     "sitta europaea",
     "carduelis carduelis",
     "luscinia megarhynchos",
