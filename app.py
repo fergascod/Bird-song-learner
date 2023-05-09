@@ -55,69 +55,19 @@ def response(response, correct):
                                 game_mode=game_mode, response=response,
                                 correct=correct)
 
-
-@APP.route('/form')
-def form():
-    scientificToCatalan=catalanNames()
-    print(scientificToCatalan.values(), flush=True)
-    return flask.render_template('form.html', game_modes=modes.keys(), species=scientificToCatalan.values())
-
-@APP.route('/listen_menu', methods = ['POST', 'GET'])
-def listen_menu():
-    if request.method == 'GET':
-        scientificToCatalan=catalanNames()
-        print("hello", flush=True)
-        return flask.render_template('listen_menu.html', game_modes=modes.keys(), species=scientificToCatalan.values())
-    if request.method == 'POST':
-        print
-        form_data = request.form
-        game_mode=form_data["game_mode"]
-        print(game_mode, flush=True)
-        return redirect(url_for("listen", game_mode=game_mode))
-
-
-@APP.route('/listen/<game_mode>')
-def listen(game_mode):
-    targetList=modes[game_mode]
-    recordings=loadRecordings()
-    scientificToCatalan=catalanNames()
-    species=rand.choice(targetList)
-    if len(recordings[species])!=0:
-        url="https:"+rand.choice(recordings[species])
-    return flask.render_template('listen.html', url=url, species=scientificToCatalan[species], game_mode=game_mode)
-
-
-@APP.route('/start_game', methods = ['POST', 'GET'])
+@APP.route('/start_game')
 def start_game():
-    if request.method == 'GET':
-        return f"The URL /data is accessed directly. Try going to '/form' to submit form"
-    if request.method == 'POST':
-        form_data = request.form
-        max_num=form_data["num_questions"]
-        session["game_mode"]=form_data["game_mode"]
-        session["num"]=1
-        session["correct"]=0
-        session["max_num"]=form_data["num_questions"]
+    session["game_mode"]="Aristòfanes"
+    session["num"]=1
+    session["correct"]=0
+    session["max_num"]=10
 
-        return redirect(url_for("question"))
+    return redirect(url_for("question"))
 
 
 @APP.route('/')
 def menu():
     return flask.render_template('menu.html')
-
-
-@APP.route('/new_mode', methods = ['POST', 'GET'])
-def new_mode():
-    if request.method == 'GET':
-        scientificToCatalan=catalanNames()
-        return flask.render_template('new_mode.html', 
-                                    names=scientificToCatalan)
-    if request.method == 'POST':
-        modeName = request.form["modeName"]
-        multiselect = request.form.getlist('mymultiselect')
-        modes[modeName]=multiselect
-        return "Created new game mode (stored until the end of your session)"
 
 if __name__ == '__main__':
     APP.debug=True
