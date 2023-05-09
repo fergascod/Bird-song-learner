@@ -12,12 +12,16 @@ form {
 }
 
 body {
+    padding-top: 30px; 
     height: 100%;
     width: 100%;
 }
+
+a { text-decoration: none; }
+
 .menu {
     position: absolute;
-    top: 50%;
+    top: 30%;
     width: 100%;
     text-align: center;
 }
@@ -25,4 +29,18 @@ body {
 canvas {
     width: 100% !important;
     height: 100% !important;
+}
+
+.center {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+.navbar {
+background-color: #333;
+overflow: hidden;
+position: fixed;
+bottom: 0;
+width: 100%;
 }
