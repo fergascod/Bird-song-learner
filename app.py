@@ -54,6 +54,13 @@ def response(response, correct):
                                 num=num, max_num = max_num, 
                                 game_mode=game_mode, response=response,
                                 correct=correct)
+@APP.route('/form')
+def form():
+    session["game_mode"]="Aristòfanes"
+    session["num"]=1
+    session["correct"]=0
+    session["max_num"]=10
+    return redirect(url_for("question"))
 
 @APP.route('/start_game')
 def start_game():
