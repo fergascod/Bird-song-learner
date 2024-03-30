@@ -1,5 +1,5 @@
 # Bird Song Learner
-This project consists in designing an application that allows its users to practice their bird identification skills using the [xeno-canto API](https://www.xeno-canto.org/explore/api).
+This project consists in designing an application that allows its users to practice their bird identification skills using the [xeno-canto API](https://www.xeno-canto.org/explore/api). The app is deployed at [https://ferbirder.pythonanywhere.com/](https://ferbirder.pythonanywhere.com/), check it out!
 
 List of used Spanish birds from SEO birdlife can be found [here](https://seo.org/listaavesdeespana/) and Catalan bird names [here](http://www.rarebirds.cat/catalan-bird-list-ocells-de-catalunya-2020/).
 
