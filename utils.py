@@ -4,7 +4,6 @@ import pandas as pd
 import pickle
 import random as rand
 from colorama import Fore, Style
-import vlc
 import sys
 
 def make_url(bird_sp):
@@ -109,6 +108,7 @@ def test(numQuestions, targetList=None, recordings=None, numOptions=4):
     return total/numQuestions
 
 def question(url, bird=None, possible=None):
+    import vlc
     p = vlc.MediaPlayer(url)
     scientificToCatalan=catalanNames()
     if possible is not None:
