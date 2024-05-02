@@ -41,7 +41,6 @@ silvids=[
  'sylvia hortensis',
  'sylvia communis',
  'sylvia undata',
- 'sylvia sarda',
  'sylvia conspicillata',
  'sylvia cantillans',
  'sylvia melanocephala']
@@ -59,6 +58,21 @@ fringilids=[
  'carduelis citrinella',
  'serinus serinus',
  'spinus spinus']
+
+boscarles=[
+    "acrocephalus arundinaceus",
+    "acrocephalus melanopogon",
+    "acrocephalus scirpaceus",
+    "acrocephalus schoenobaenus"
+]
+
+mallerengues=[
+    "periparus ater",
+    "parus major",
+    "cyanistes caeruleus",
+    "aegithalos caudatus",
+    "lophophanes cristatus"
+]
 
 emberizids=[
  'emberiza calandra',
@@ -80,7 +94,6 @@ alaudids=[
  'alauda arvensis',
  'galerida theklae',
  'galerida cristata',
- 'eremophila alpestris',
  'calandrella brachydactyla',
  'melanocorypha calandra',
  'chersophilus duponti',
@@ -106,5 +119,7 @@ modes={
 "emberizids":emberizids,
 "mosquiters":mosquiters,
 "alaudids":alaudids,
+"Boscarles":boscarles,
+"Mallerengues":mallerengues,
 "OcellsComunsCat":comuns_cat
 }
