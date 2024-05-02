@@ -112,7 +112,6 @@ aristofanes=[
 ]
 
 modes={
-"Aristòfanes": aristofanes,
 "principiants":principiant,
 "silvids":silvids,
 "fringilids":fringilids,
