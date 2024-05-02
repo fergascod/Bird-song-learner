@@ -4,6 +4,7 @@ import pandas as pd
 import pickle
 import random as rand
 from colorama import Fore, Style
+import vlc
 import sys
 
 def make_url(bird_sp):

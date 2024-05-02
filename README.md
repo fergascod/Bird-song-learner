@@ -44,3 +44,5 @@ The program will guide you from that point on.
 TODO:
 - Some trouble with VLC if going through questions fast:
   - [00007f361010a6e0] prefetch stream error: reading while paused (buggy demux?)
+  - [000073466000c190] http stream error: local stream 1 error: Cancellation (0x8)
+- Issues when selecting modes
