@@ -75,6 +75,17 @@ def listen_menu():
         print(game_mode, flush=True)
         return redirect(url_for("listen", game_mode=game_mode))
 
+@APP.route('/listen_species_menu', methods = ['POST', 'GET'])
+def listen_species_menu():
+    if request.method == 'GET':
+        scientificToCatalan=catalanNames()
+        print("hello", flush=True)
+        return flask.render_template('listen_species_menu.html', dict=scientificToCatalan, species=[sp for sp in scientificToCatalan.keys() if sp[0].isupper()])
+    if request.method == 'POST':
+        form_data = request.form
+        species=form_data["species"]
+        print(species, flush=True)
+        return redirect(url_for("listen_species", species=species))
 
 @APP.route('/listen/<game_mode>')
 def listen(game_mode):
@@ -85,6 +96,14 @@ def listen(game_mode):
     if len(recordings[species])!=0:
         url="https:"+rand.choice(recordings[species])
     return flask.render_template('listen.html', url=url, species=scientificToCatalan[species], game_mode=game_mode)
+
+@APP.route('/listen_species/<species>')
+def listen_species(species):
+    recordings=loadRecordings()
+    scientificToCatalan=catalanNames()
+    if len(recordings[species])!=0:
+        url="https:"+rand.choice(recordings[species])
+    return flask.render_template('listen_species.html', url=url, species=species)
 
 
 @APP.route('/start_game', methods = ['POST', 'GET'])
